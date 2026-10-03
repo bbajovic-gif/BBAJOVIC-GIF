@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="210" viewBox="0 0 820 210" role="img" aria-labelledby="title description">
+  <title id="title">RDM PlayStudio</title>
+  <desc id="description">RDM PlayStudio logo with the tagline Organize, Enrich, Play</desc>
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd165"/>
+      <stop offset="1" stop-color="#ffae28"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="194" height="194" rx="52" fill="url(#badge)"/>
+  <path d="M166 37c7 19 18 30 38 37-20 7-31 18-38 38-7-20-18-31-38-38 20-7 31-18 38-37Z" fill="#58e49b"/>
+  <text x="105" y="142" text-anchor="middle" fill="#101b2b" font-family="Segoe UI, Arial, sans-serif" font-size="79" font-weight="900" letter-spacing="-7">RD</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="64" letter-spacing="-2">
+    <text x="246" y="113" fill="#f7f9fd">RDM</text>
+    <text x="390" y="113" fill="#55df98">Play</text>
+    <text x="517" y="113" fill="#ffb937">Studio</text>
+  </g>
+
+  <text x="250" y="158" fill="#91a8c7" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="5">ORGANIZE · ENRICH · PLAY</text>
+</svg>

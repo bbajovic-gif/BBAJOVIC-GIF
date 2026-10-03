@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="MOD1 Import &amp; Reconcile for Discogs Toolkit V1.0. Import a downloaded Discogs CSV or connect directly through the Discogs API, compare it with the master collection, review differences and apply controlled updates." name="description"/>
+<title>MOD1 — Import &amp; Reconcile | Discogs Toolkit V1.0</title>
+<link href="assets/css/toolkit.css" rel="stylesheet"/>
+</head>
+<body class="mod-page">
+<header class="site-header">
+<div class="product-bar">
+<div class="container product-nav">
+<a aria-label="Return to BBaya.net homepage" class="toolkit-brand" href="../index.html">
+<span class="bb-mark">BB</span><span class="bb-name"><strong>BBaya</strong><i>.net</i></span>
+</a>
+<div aria-hidden="true" class="toolkit-divider"></div>
+<div class="product-title">DISCOGS TOOLKIT <span>V1.0</span></div>
+<button aria-expanded="false" aria-label="Toggle Toolkit navigation" class="product-menu-toggle">☰</button>
+<nav aria-label="Toolkit navigation" class="product-links">
+<a href="index.html">Overview</a><a href="for-sellers.html">For Sellers</a><a class="active" href="modules.html">Modules</a><a href="workflow.html">Workflow</a><a href="automation.html">Automation</a><a href="storefront.html">Storefront</a><a href="screenshots.html">Screenshots</a><a href="documentation.html">Documentation</a>
+</nav>
+<a class="btn btn-primary btn-small" href="contact.html">Request access →</a>
+</div>
+</div>
+</header>
+<main>
+<section class="mod1-hero">
+<div class="container">
+<a class="mod-back" href="modules.html">← Back to all modules</a>
+<div class="mod1-intro">
+<div class="mod1-copy">
+<p class="mod-number">MOD1</p>
+<h1 class="mod-name">Import &amp; Reconcile</h1>
+<p class="mod-tagline">Build a reliable master collection from the very first step.</p>
+<p class="mod-description">MOD1 imports your Discogs collection either from a <strong>downloaded Discogs CSV export</strong> or <strong>directly through the Discogs API</strong>. It compares that source with the local master collection, identifies differences, and lets you decide exactly what should change.</p>
+<ul class="mod-keypoints">
+<li>Import a downloaded Discogs collection CSV</li>
+<li>Load collection data directly through the Discogs API</li>
+<li>Detect new, changed, missing and review-required records</li>
+<li>Apply controlled repairs without overwriting trusted local data</li>
+</ul>
+</div>
+<div aria-label="Annotated MOD1 Reconciliation Cockpit screenshot" class="mod1-stage">
+<div class="mod1-main-shot"><img alt="Actual MOD1 Reconciliation Cockpit comparing master collection, Discogs export and detected issues" src="assets/screenshots/toolkit_mod1.jpg"/></div>
+<div class="feature-callout callout-import"><strong>Downloaded CSV</strong><span>Load the collection export downloaded from your Discogs account.</span></div>
+<div class="feature-callout callout-api"><strong>Direct Discogs API</strong><span>Connect and retrieve the latest collection data without manually opening the CSV.</span></div>
+<div class="feature-callout callout-compare"><strong>Side-by-side comparison</strong><span>Master and Discogs data remain visible together for quick verification.</span></div>
+<div class="feature-callout callout-issues"><strong>Issues panel</strong><span>See clean, changed and review-required records at a glance.</span></div>
+<div class="feature-callout callout-save"><strong>Controlled save &amp; sync</strong><span>Repair selected fields, save the master and synchronize only when ready.</span></div>
+</div>
+</div>
+</div>
+</section>
+<section class="import-paths">
+<div class="container">
+<div class="import-paths-head">
+<p class="eyebrow">Two ways to begin</p>
+<h2>Choose the import path that fits your workflow.</h2>
+<p>Both methods feed the same reconciliation engine and produce the same controlled comparison against your master collection.</p>
+</div>
+<div class="import-choice-grid">
+<article class="import-choice orange-glow">
+<div class="import-choice-icon">⇩</div>
+<h3>Discogs CSV Import</h3>
+<p>Download the collection export from Discogs, then load the file into MOD1.</p>
+<ul>
+<li>Works with an exported Discogs collection file</li>
+<li>Ideal for manual checkpoints and archived snapshots</li>
+<li>Easy to inspect before reconciliation begins</li>
+</ul>
+</article>
+<div class="choice-or">OR</div>
+<article class="import-choice">
+<div class="import-choice-icon">API</div>
+<h3>Direct Discogs API</h3>
+<p>Connect to the Discogs account and retrieve current collection information directly.</p>
+<ul>
+<li>Avoids downloading a new CSV for every comparison</li>
+<li>Uses the latest data available from the account</li>
+<li>Feeds directly into the same review and repair workflow</li>
+</ul>
+</article>
+</div>
+</div>
+</section>
+<section class="mod1-details">
+<div class="container">
+<article class="detail-scene">
+<div class="detail-visual detail-crop"><img alt="Master and Discogs export tables in MOD1" src="assets/screenshots/toolkit_mod1.jpg"/></div>
+<div class="detail-text">
+<span class="detail-label">Compare</span>
+<h2>Master and Discogs data, visible together.</h2>
+<p>MOD1 aligns the local master with the incoming Discogs data so changed folders, fields, inventory state and other differences can be reviewed in context rather than accepted blindly.</p>
+<div class="detail-pills"><span class="detail-pill">MASTER</span><span class="detail-pill">EXPORT</span><span class="detail-pill">DIFFS</span><span class="detail-pill">REVIEW</span></div>
+</div>
+</article>
+<article class="detail-scene reverse">
+<div class="detail-text">
+<span class="detail-label">Decide</span>
+<h2>Repair only what you approve.</h2>
+<p>Use targeted repair actions for folder names or selected fields, promote genuinely new records, and leave clean records untouched. The workflow is designed to protect local work while still keeping Discogs information current.</p>
+<div class="detail-pills"><span class="detail-pill">APPLY FOLDER NAME</span><span class="detail-pill">APPLY FIELDS</span><span class="detail-pill">PROMOTE NEW</span></div>
+</div>
+<div class="detail-visual detail-crop"><img alt="Repair and save controls in MOD1" src="assets/screenshots/toolkit_mod1.jpg"/></div>
+</article>
+</div>
+</section>
+<section class="mod1-flow">
+<div class="container">
+<h2>The first step toward a reliable master collection</h2>
+<div class="flow-grid">
+<div class="flow-step"><div class="flow-icon">⇩</div><h3>Import</h3><p>CSV export or Discogs API</p></div>
+<div class="flow-step"><div class="flow-icon">⛓</div><h3>Match</h3><p>Align incoming records with master data</p></div>
+<div class="flow-step"><div class="flow-icon">⌕</div><h3>Analyze</h3><p>Find clean, changed and new items</p></div>
+<div class="flow-step"><div class="flow-icon">✓</div><h3>Review</h3><p>Inspect every important difference</p></div>
+<div class="flow-step"><div class="flow-icon">▰</div><h3>Update</h3><p>Apply approved repairs and save</p></div>
+<div class="flow-step"><div class="flow-icon">↻</div><h3>Ready</h3><p>Clean master data for the next module</p></div>
+</div>
+</div>
+</section>
+<section class="mod1-closing">
+<div class="container">
+<div class="cta-band">
+<div><h2>A clean master collection is the foundation for everything that follows.</h2><p>MOD1 keeps the source data accurate, controlled and ready for enrichment, inventory, marketplace and publishing workflows.</p></div>
+<div class="hero-actions"><a class="btn btn-primary" href="modules.html">View all modules →</a><a class="btn" href="documentation.html">Read documentation</a></div>
+</div>
+</div>
+</section>
+</main>
+<footer><div class="container"><div class="footer-grid">
+<div><a class="brand" href="../index.html"><strong>BBaya</strong><span>.net</span></a><p class="muted">Tools and studios for collectors, independent sellers and media creators.</p></div>
+<div><h4>Collection</h4><a href="../library/index.html">Library</a><a href="../library/index.html">Formats</a><a href="../library/index.html">Record details</a></div>
+<div><h4>Discogs Toolkit</h4><a href="index.html">Overview</a><a href="modules.html">Modules</a><a href="workflow.html">Workflow</a><a href="automation.html">Automation</a></div>
+<div><h4>BBaya</h4><a href="../iconlab/index.html">IconLab</a><a href="../about.html">About BBaya</a><a href="../news.html">News</a><a href="../contact.html">Contact</a></div>
+<div><h4>Support</h4><a href="documentation.html">Documentation</a><a href="../support.html">FAQ</a><a href="documentation.html#requirements">System requirements</a></div>
+</div><div class="copyright">© 2026 BBaya.net · Discogs Toolkit V1.0</div></div></footer>
+<script src="assets/js/toolkit.js"></script>
+</body>
+</html>

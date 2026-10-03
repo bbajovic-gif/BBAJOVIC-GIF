@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Review records selected from the BBaya music Library.">
+  <title>Your Cart — BBaya.net</title>
+  <link href="assets/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="styles.css" rel="stylesheet">
+  <link href="cart.css" rel="stylesheet">
+</head>
+<body class="cart-page-body">
+  <header class="site-header cart-site-header">
+    <a aria-label="BBaya.net home" class="brand brand-small" href="index.html">
+      <span class="brand-icon"><span class="bb">BB</span><span class="note">♫</span></span>
+      <span class="brand-word"><b>BB</b><strong>aya</strong><em>.net</em></span>
+    </a>
+    <nav class="main-nav" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a href="library/index.html">Library</a>
+      <a href="shipping.html">Shipping</a>
+      <a class="active" href="cart.html">Cart <span data-cart-count>0</span></a>
+    </nav>
+  </header>
+
+  <main class="cart-page">
+    <section class="cart-hero">
+      <p class="cart-kicker">BBAYA LIBRARY</p>
+      <h1>Your Cart</h1>
+      <p>Review the music you selected before contacting BBaya to confirm availability, shipping, and payment.</p>
+    </section>
+
+    <section class="cart-layout">
+      <div id="cart-items" class="cart-items" aria-live="polite"></div>
+      <aside class="cart-summary" data-cart-has-items hidden>
+        <p>ORDER SUMMARY</p>
+        <div><span>Items</span><strong data-cart-count>0</strong></div>
+        <div class="cart-total"><span>Subtotal</span><strong id="cart-subtotal">CA$0.00</strong></div>
+        <small>Shipping is calculated separately according to destination and package type.</small>
+        <a class="cart-primary-action" href="contact.html?subject=BBaya%20Library%20order">Contact BBaya to order</a>
+        <a class="cart-secondary-action" href="library/index.html">Continue shopping</a>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="cart-footer">
+    <span>Collector. Music. Forever.</span>
+    <nav><a href="shipping.html">Shipping</a><a href="payments.html">Payment</a><a href="returns.html">Returns</a><a href="contact.html">Contact</a></nav>
+  </footer>
+  <script src="library/assets/js/cart.js"></script>
+</body>
+</html>

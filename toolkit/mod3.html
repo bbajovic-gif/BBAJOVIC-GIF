@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="MOD3 Master Enrichment for Discogs Toolkit V1.0. Enrich the master collection with Discogs and MusicBrainz metadata, artist-origin information, pricing references, cover images and controlled bulk updates." name="description"/>
+<title>MOD3 — Master Enrichment | Discogs Toolkit V1.0</title>
+<link href="assets/css/toolkit.css" rel="stylesheet"/>
+</head>
+<body class="mod-page mod3-page">
+<header class="site-header">
+<div class="product-bar">
+<div class="container product-nav">
+<a aria-label="Return to BBaya.net homepage" class="toolkit-brand" href="../index.html">
+<span class="bb-mark">BB</span><span class="bb-name"><strong>BBaya</strong><i>.net</i></span>
+</a>
+<div aria-hidden="true" class="toolkit-divider"></div>
+<div class="product-title">DISCOGS TOOLKIT <span>V1.0</span></div>
+<button aria-expanded="false" aria-label="Toggle Toolkit navigation" class="product-menu-toggle">☰</button>
+<nav aria-label="Toolkit navigation" class="product-links">
+<a href="index.html">Overview</a><a href="for-sellers.html">For Sellers</a><a class="active" href="modules.html">Modules</a><a href="workflow.html">Workflow</a><a href="automation.html">Automation</a><a href="storefront.html">Storefront</a><a href="screenshots.html">Screenshots</a><a href="documentation.html">Documentation</a>
+</nav>
+<a class="btn btn-primary btn-small" href="contact.html">Request access →</a>
+</div>
+</div>
+</header>
+<main>
+<section class="mod3-hero">
+<div class="container">
+<div class="module-page-topline">
+<a class="mod-back" href="modules.html">← Back to all modules</a>
+<div class="module-pager"><span>MOD3 of 6</span><a aria-label="Previous module" href="mod2.html">←</a><a aria-label="Next module" href="mod4.html">→</a></div>
+</div>
+<div class="mod3-intro">
+<div class="mod3-copy">
+<p class="mod-number">MOD3</p>
+<h1 class="mod-name">Master Enrichment</h1>
+<p class="mod-tagline">Turn a clean master list into a rich, searchable collection database.</p>
+<p class="mod-description">MOD3 fills missing release information, adds trusted external metadata and manages cover images in one controlled cockpit. It combines <strong>Discogs</strong> release data with <strong>MusicBrainz</strong> identifiers and artist information, while keeping every update visible before it is written back to the master collection.</p>
+<ul class="mod-keypoints">
+<li>Enrich from Discogs and MusicBrainz</li>
+<li>Fill year, country, label, catalog number, genre and style</li>
+<li>Add artist origin, region, type and external IDs</li>
+<li>Find, download and review missing cover images</li>
+<li>Run bulk profiles or enrich only selected records</li>
+</ul>
+</div>
+<div aria-label="Annotated MOD3 Master Enrichment Cockpit screenshot" class="mod3-stage">
+<div class="mod3-main-shot"><img alt="Actual MOD3 Master Enrichment Cockpit with enrichment rules, record table, statuses and run controls" src="assets/screenshots/toolkit_mod3.jpg"/></div>
+<div class="feature-callout m3-callout-sources"><strong>Two trusted sources</strong><span>Combine Discogs release data with MusicBrainz artist and release identifiers.</span></div>
+<div class="feature-callout m3-callout-rules"><strong>Choose enrichment fields</strong><span>Select exactly which fields should be completed, from year and label to artist origin and pricing references.</span></div>
+<div class="feature-callout m3-callout-status"><strong>Live enrichment status</strong><span>Track complete, partial, manual-review, not-found and changed records at a glance.</span></div>
+<div class="feature-callout m3-callout-covers"><strong>Cover management</strong><span>Filter missing covers, download selected artwork and verify which records have usable images.</span></div>
+<div class="feature-callout m3-callout-detail"><strong>Record-level details</strong><span>Inspect enrichment notes and the exact result for the selected release before saving.</span></div>
+<div class="feature-callout m3-callout-run"><strong>Bulk or selected runs</strong><span>Use a reusable profile, run the current view or enrich only carefully selected rows.</span></div>
+</div>
+</div>
+</div>
+</section>
+<section class="mod3-source-band">
+<div class="container">
+<div class="mod3-source-head">
+<p class="eyebrow">More than one source. One controlled result.</p>
+<h2>Discogs depth meets MusicBrainz intelligence.</h2>
+<p>MOD3 does not blindly overwrite the collection. It uses complementary sources to fill different gaps and keeps the result visible inside one master enrichment workspace.</p>
+</div>
+<div class="mod3-source-grid">
+<article class="mod3-source-card">
+<div class="source-badge">DISCOGS</div>
+<h3>Release Metadata</h3>
+<p>Use the Discogs release as the main reference for edition-specific information and marketplace context.</p>
+<ul>
+<li>Release year and country</li>
+<li>Label and catalog number</li>
+<li>Format, genre and style</li>
+<li>Lowest, median, highest and suggested pricing references</li>
+</ul>
+</article>
+<div class="choice-or">+</div>
+<article class="mod3-source-card purple-glow">
+<div class="source-badge">MUSIC<br/>BRAINZ</div>
+<h3>Artist &amp; Identity Data</h3>
+<p>Add information that helps describe, connect and verify the artist and release beyond the basic Discogs export.</p>
+<ul>
+<li>Artist and release identifiers</li>
+<li>Artist origin, region and country code</li>
+<li>Artist type and source</li>
+<li>MusicBrainz artist and release URLs</li>
+</ul>
+</article>
+</div>
+</div>
+</section>
+<section class="mod3-details">
+<div class="container">
+<article class="detail-scene">
+<div class="detail-visual mod3-crop mod3-crop-rules"><img alt="MOD3 Enrichment Rules panel listing selectable release, artist, pricing, cover and status fields" src="assets/screenshots/toolkit_mod3.jpg"/></div>
+<div class="detail-text">
+<span class="detail-label">Select</span>
+<h2>Enrich only what the collection actually needs.</h2>
+<p>The Enrichment Rules panel lets you choose individual fields instead of running an uncontrolled all-or-nothing import. Build a focused profile for release data, artist-origin research, pricing, covers or a complete enrichment pass.</p>
+<div class="detail-pills"><span class="detail-pill">YEAR</span><span class="detail-pill">COUNTRY</span><span class="detail-pill">LABEL</span><span class="detail-pill">CATALOG #</span><span class="detail-pill">GENRE</span><span class="detail-pill">STYLE</span></div>
+</div>
+</article>
+<article class="detail-scene reverse">
+<div class="detail-text">
+<span class="detail-label">Understand</span>
+<h2>See complete, partial and unresolved records immediately.</h2>
+<p>Colour-coded rows and summary counters separate records that are complete from those that still need enrichment or human review. This keeps attention on the exceptions rather than forcing you to inspect thousands of successful rows.</p>
+<div class="detail-pills"><span class="detail-pill">COMPLETE</span><span class="detail-pill">PARTIAL</span><span class="detail-pill">MANUAL REVIEW</span><span class="detail-pill">NOT FOUND</span><span class="detail-pill">CHANGED</span></div>
+</div>
+<div class="detail-visual mod3-crop mod3-crop-table"><img alt="MOD3 main table with green, blue and red enrichment-status rows, cover thumbnails and metadata columns" src="assets/screenshots/toolkit_mod3.jpg"/></div>
+</article>
+<article class="detail-scene">
+<div class="detail-visual mod3-crop mod3-crop-actions"><img alt="MOD3 profile selector, force update option, Run Current and Run Selected controls" src="assets/screenshots/toolkit_mod3.jpg"/></div>
+<div class="detail-text">
+<span class="detail-label">Control</span>
+<h2>Run fast profiles, selected records or a careful overwrite.</h2>
+<p>Choose a reusable enrichment profile, process the visible workspace or target only selected records. Force update remains an explicit option, so existing trusted values are protected unless you deliberately decide to replace them.</p>
+<div class="detail-pills"><span class="detail-pill">FAST PROFILE</span><span class="detail-pill">RUN CURRENT</span><span class="detail-pill">RUN SELECTED</span><span class="detail-pill">FORCE UPDATE</span></div>
+</div>
+</article>
+<article class="detail-scene reverse">
+<div class="detail-text">
+<span class="detail-label">Verify</span>
+<h2>Know what remains before saving the master.</h2>
+<p>Every enrichment pass ends with visible status, notes and cover state. Missing or uncertain records can stay in manual review while complete records move forward to inventory, pricing, marketplace preparation and publishing.</p>
+<div class="detail-pills"><span class="detail-pill">ENRICHMENT STATUS</span><span class="detail-pill">NOTES</span><span class="detail-pill">COVER STATUS</span><span class="detail-pill">LAST ENRICHED</span></div>
+</div>
+<div class="detail-visual mod3-status-visual">
+<div aria-label="MOD3 enrichment result states" class="status-lifecycle">
+<div class="status-node complete"><small>01</small><strong>Complete</strong><span>Required fields and cover are ready.</span></div>
+<div class="status-node partial"><small>02</small><strong>Partial</strong><span>Useful data found, but some fields remain open.</span></div>
+<div class="status-node manual"><small>03</small><strong>Manual</strong><span>A human decision is required before completion.</span></div>
+<div class="status-node missing"><small>04</small><strong>Not Found</strong><span>No safe external match was confirmed.</span></div>
+<div class="status-node"><small>05</small><strong>Ready</strong><span>Save verified enrichment back to the master.</span></div>
+</div>
+</div>
+</article>
+</div>
+</section>
+<section class="mod1-flow mod3-flow">
+<div class="container">
+<h2>From basic release rows to a rich master collection</h2>
+<div class="flow-grid">
+<div class="flow-step"><div class="flow-icon">▦</div><h3>Load</h3><p>Open the normalized master collection</p></div>
+<div class="flow-step"><div class="flow-icon">◎</div><h3>Choose</h3><p>Select fields and an enrichment profile</p></div>
+<div class="flow-step"><div class="flow-icon">↗</div><h3>Research</h3><p>Query Discogs and MusicBrainz</p></div>
+<div class="flow-step"><div class="flow-icon">＋</div><h3>Enrich</h3><p>Fill metadata, IDs and artist information</p></div>
+<div class="flow-step"><div class="flow-icon">▣</div><h3>Cover</h3><p>Find and verify missing artwork</p></div>
+<div class="flow-step"><div class="flow-icon">✓</div><h3>Save</h3><p>Write verified results to the master</p></div>
+</div>
+</div>
+</section>
+<section class="mod1-closing">
+<div class="container">
+<div class="cta-band">
+<div><h2>A richer master collection powers better search, pricing, listings and storefronts.</h2><p>MOD3 turns normalized records into complete, visual and marketplace-ready collection data without sacrificing control over the source of truth.</p></div>
+<div class="hero-actions"><a class="btn btn-primary" href="modules.html">View all modules →</a><a class="btn" href="mod2.html">← Previous: MOD2</a></div>
+</div>
+</div>
+</section>
+</main>
+<footer><div class="container"><div class="footer-grid">
+<div><a class="brand" href="../index.html"><strong>BBaya</strong><span>.net</span></a><p class="muted">Tools and studios for collectors, independent sellers and media creators.</p></div>
+<div><h4>Collection</h4><a href="../library/index.html">Library</a><a href="../library/index.html">Formats</a><a href="../library/index.html">Record details</a></div>
+<div><h4>Discogs Toolkit</h4><a href="index.html">Overview</a><a href="modules.html">Modules</a><a href="workflow.html">Workflow</a><a href="automation.html">Automation</a></div>
+<div><h4>BBaya</h4><a href="../iconlab/index.html">IconLab</a><a href="../about.html">About BBaya</a><a href="../news.html">News</a><a href="../contact.html">Contact</a></div>
+<div><h4>Support</h4><a href="documentation.html">Documentation</a><a href="../support.html">FAQ</a><a href="documentation.html#requirements">System requirements</a></div>
+</div><div class="copyright">© 2026 BBaya.net · Discogs Toolkit V1.0</div></div></footer>
+<script src="assets/js/toolkit.js"></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "remove_terms": [
+    "digital edition",
+    "retail",
+    "scan group",
+    "scanner name",
+    "release group",
+    "downloadmagaz.net",
+    "Downmagaz Net",
+    "Issue",
+    "1080p",
+    "WEB -DL h264",
+    "WEB",
+    "LAMA_SANET.ST"
+  ],
+  "remove_regex": [
+    "\\bissue\\s*#?\\s*\\d+\\b[\\s,;:-]*",
+    "\\b(?:no\\.?|number)\\s*#?\\s*\\d+\\b[\\s,;:-]*"
+  ],
+  "acronyms": [
+    "BBC",
+    "AI",
+    "USA",
+    "UK",
+    "PDF",
+    "CBR",
+    "CBZ",
+    "EPUB",
+    "IOS",
+    "'S",
+    "NFL",
+    "iOS",
+    "iPad",
+    "iPhone",
+    "CHATGPT"
+  ],
+  "publication_names": {
+    "bbc sky at night": "BBC Sky at Night",
+    "computeractive": "ComputerActive",
+    "choice": "Choice",
+    "ios": "iOS",
+    "ipad": "iPad",
+    "iphone": "iPhone",
+    "all about history -": "All About History -",
+    "how it works -": "How it Works -",
+    "iphone life magazine": "iPhone Life Magazine",
+    "macformat": "MacFormat",
+    "maclife": "MacLife",
+    "macworld": "MacWorld"
+  },
+  "settings": {
+    "magazine_pattern": "{title} - {date}",
+    "remove_trailing_issue_number_when_date_found": true,
+    "move_leading_the_before_suffix": true,
+    "separate_trailing_year": true,
+    "normalize_spaced_iso_dates": true,
+    "separate_edition_suffix": true
+  }
+}

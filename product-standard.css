@@ -1,0 +1,21 @@
+
+/* BBaya standardized program identity bar */
+.bbaya-program-bar{
+  min-height:104px; display:grid; grid-template-columns:minmax(180px,1fr) auto minmax(180px,1fr);
+  align-items:center; gap:24px; padding:14px clamp(18px,3vw,48px); position:relative; z-index:1000;
+  background:linear-gradient(180deg,#0b1118 0%,#05080c 100%); border-bottom:1px solid #2b3540;
+  box-shadow:0 8px 28px rgba(0,0,0,.34); color:#fff;
+}
+.bbaya-program-bar .bbaya-master-brand{justify-self:start; display:flex; align-items:center; gap:11px; color:#fff; text-decoration:none; font:800 25px/1 'Segoe UI',Arial,sans-serif; letter-spacing:-.03em}
+.bbaya-program-bar .master-mark{display:grid;place-items:center;width:54px;height:54px;border:2px solid #ff6500;border-radius:13px;color:#fff;font-size:21px;background:#090d12;box-shadow:inset 0 0 0 1px rgba(85,191,255,.28)}
+.bbaya-program-bar .bbaya-master-brand b{color:#ff6500}.bbaya-program-bar .bbaya-master-brand em{font-style:normal;color:#55bfff}
+.bbaya-program-bar .program-identity{justify-self:center; display:flex; align-items:center; justify-content:center; gap:15px; min-width:300px; color:#fff; text-decoration:none; text-align:center}
+.bbaya-program-bar .program-identity img{max-height:76px;max-width:340px;width:auto;object-fit:contain;filter:drop-shadow(0 6px 13px rgba(0,0,0,.45))}
+.bbaya-program-bar .program-symbol{display:grid;place-items:center;width:68px;height:68px;border-radius:16px;border:1px solid #425363;background:#101821;color:#ff6500;font:900 27px/1 'Segoe UI',Arial,sans-serif}
+.bbaya-program-bar .program-copy{display:flex;flex-direction:column;align-items:flex-start;line-height:1}
+.bbaya-program-bar .program-copy strong{font:900 27px/1 'Segoe UI',Arial,sans-serif;letter-spacing:.02em;text-transform:uppercase}
+.bbaya-program-bar .program-copy small{margin-top:7px;color:#9eb0bf;font:700 10px/1.2 'Segoe UI',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.bbaya-program-bar .program-home{justify-self:end;display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:0 23px;border-radius:9px;background:linear-gradient(105deg,#d94f00,#ff6500);border:1px solid #ff873d;color:#fff!important;text-decoration:none!important;font:900 14px/1 'Segoe UI',Arial,sans-serif;letter-spacing:.035em;text-transform:uppercase;box-shadow:0 8px 24px rgba(255,101,0,.25)}
+.bbaya-program-bar .program-home:hover{transform:translateY(-1px);filter:brightness(1.08)}
+@media(max-width:900px){.bbaya-program-bar{grid-template-columns:1fr auto;min-height:88px}.bbaya-program-bar .program-identity{grid-column:1/-1;grid-row:2;min-width:0}.bbaya-program-bar .program-home{grid-column:2;grid-row:1}.bbaya-program-bar .program-identity img{max-height:62px}}
+@media(max-width:560px){.bbaya-program-bar{padding:12px 14px;gap:12px}.bbaya-program-bar .bbaya-master-brand{font-size:20px}.bbaya-program-bar .master-mark{width:44px;height:44px}.bbaya-program-bar .program-home{min-height:46px;padding:0 15px;font-size:12px}.bbaya-program-bar .program-copy strong{font-size:21px}.bbaya-program-bar .program-symbol{width:54px;height:54px}}

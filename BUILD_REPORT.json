@@ -1,0 +1,13 @@
+{
+  "iconlab_modules": [
+    "AlphaCut",
+    "GridCut",
+    "MatchScan",
+    "Favicon Creator",
+    "Contact Sheet",
+    "Smart Rename"
+  ],
+  "active_library_records": 59,
+  "cover_files_after_cleanup": 59,
+  "record_pages_after_cleanup": 59
+}

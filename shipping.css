@@ -1,0 +1,139 @@
+:root{--orange:#ff6500;--blue:#55bfff;--bg:#050607;--panel:#0d0f11;--line:#3a3d42;--text:#f4f4f2;--muted:#c9c9c5}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#030405;color:var(--text);font-family:Inter,"Segoe UI",Arial,sans-serif}
+.topbar{height:88px;background:#030405;display:flex;align-items:center;padding:0 28px;gap:36px;border-bottom:1px solid #17191c;position:sticky;top:0;z-index:50}
+.brand img{width:260px;display:block}.topbar nav{margin-left:auto;display:flex;gap:34px}.topbar nav a{color:#fff;text-decoration:none;text-transform:uppercase;font-size:13px}.topbar nav a:first-child{color:var(--orange);border-bottom:2px solid var(--orange);padding-bottom:27px;padding-top:29px}.actions{display:flex;gap:20px;font-size:25px}.actions span:last-child{position:relative}.actions b{position:absolute;font-size:10px;background:var(--orange);border-radius:50%;width:18px;height:18px;line-height:18px;text-align:center;top:-8px;right:-8px}
+
+.hero{min-height:510px;position:relative;overflow:hidden;display:flex;align-items:center;padding:70px 5vw;background:linear-gradient(90deg,rgba(0,0,0,.96),rgba(0,0,0,.68) 46%,rgba(0,0,0,.1)),url('assets/shipping-hero-room.png') center/cover}
+.hero:after{content:"";position:absolute;inset:auto 0 0;height:180px;background:linear-gradient(transparent,#030405)}
+.hero-copy{position:relative;z-index:2;max-width:600px}.eyebrow{color:var(--orange);text-transform:uppercase;letter-spacing:.18em;font-size:13px}.hero h1{font-family:Georgia,serif;text-transform:uppercase;font-size:82px;line-height:.82;margin:10px 0 18px}.hero h1 span{color:var(--orange)}.hero-line{width:350px;height:2px;background:var(--orange);margin:20px 0}.hero-copy>p:last-child{font-size:21px;line-height:1.55}.box{position:absolute;z-index:2;right:6vw;bottom:16px;width:min(52vw,690px);filter:drop-shadow(0 30px 25px rgba(0,0,0,.6))}
+
+.policy-shell{max-width:1450px;margin:-58px auto 50px;position:relative;z-index:5;background:linear-gradient(180deg,#111315,#090b0d);border:1px solid #4a4d51;border-radius:12px;padding:24px;box-shadow:0 30px 80px #000}
+.policy-shell>h2{text-align:center;text-transform:uppercase;font-size:29px;letter-spacing:.04em;margin:0 0 24px}
+
+.shipping-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.shipping-card{border:1px solid;border-radius:10px;padding:26px 30px;background:radial-gradient(circle at 0 0,rgba(255,255,255,.03),transparent 40%),#0b0d0f}
+.shipping-card.canada{border-color:#bd5b00}
+.shipping-card.international{border-color:#2877a7}
+
+.card-heading{
+display:flex;
+align-items:center;
+gap:14px;
+margin-bottom:8px;
+}
+
+.card-heading img{
+width:128px;
+height:128px;
+object-fit:contain;
+flex-shrink:0;
+margin-right:-4px;
+}
+
+.card-heading h3{
+text-transform:uppercase;
+font-size:24px;
+letter-spacing:.05em;
+line-height:1.1;
+}
+
+.canada h3{color:#ff7a00}
+.international h3{color:var(--blue)}
+
+.rates{display:grid;margin:24px 0}
+.rates.three{grid-template-columns:repeat(3,1fr)}
+.rates.two{grid-template-columns:repeat(2,1fr)}
+.rates>div{text-align:center;padding:0 18px;border-right:1px solid #444}
+.rates>div:last-child{border:0}
+.rates strong{display:block;text-transform:uppercase;font-size:34px}
+.rates span{font-size:15px;color:#ddd;line-height:1.45}
+
+.case-option{border-top:1px solid #4a4c50;border-bottom:1px solid #4a4c50;padding:16px 0;margin:8px 0 16px;display:grid;grid-template-columns:1fr auto auto;gap:18px;align-items:center}
+.case-option b{display:block;color:#fff;font-size:16px}
+.case-option small{display:block;color:#aaa;margin-top:5px}
+.budget-rate{text-align:center}
+.budget-rate strong{font-size:24px;color:var(--orange);display:block}
+.international .budget-rate strong{color:var(--blue)}
+.budget-rate span{font-size:12px;color:#aaa}
+
+.shipping-card ul,.notes ul{list-style:none;padding:0;margin:16px 0 0}
+.shipping-card li,.notes li{padding:7px 0 7px 30px;position:relative;line-height:1.35}
+.shipping-card li:before,.notes li:before{content:"✓";position:absolute;left:0;width:20px;height:20px;border:1px solid currentColor;border-radius:50%;text-align:center;line-height:18px;color:var(--orange)}
+.international li:before{color:var(--blue)}
+
+.light-strip{margin:24px 0;background:#f2ede3;color:#111;border-radius:8px;display:grid;grid-template-columns:1fr 1fr;padding:24px}
+.light-strip article{display:flex;gap:20px;padding:0 28px}
+.light-strip article+article{border-left:1px solid #777}
+.light-strip img{width:70px;height:70px;object-fit:contain}
+.light-strip h3{font-size:22px;text-transform:uppercase;margin:3px 0 10px}
+.light-strip p{margin:0;font-size:16px;line-height:1.45}
+
+.benefits{display:grid;grid-template-columns:repeat(5,1fr);padding:24px 0;border-top:1px solid #292c30;border-bottom:1px solid #292c30}
+.benefits article{text-align:center;padding:0 22px;border-right:1px solid #484b50}
+.benefits article:last-child{border:0}
+.benefits img{width:72px;height:72px;object-fit:contain}
+.benefits h3{text-transform:uppercase;font-size:15px;margin:8px 0}
+.benefits p{color:#d4d4d0;font-size:14px;line-height:1.55;margin:0}
+
+.notes-security{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:24px}
+.notes-security article{border:1px solid #4b4e53;border-radius:9px;padding:24px}
+.notes h3,.security h3{color:var(--orange);text-transform:uppercase;margin:0 0 14px}
+.security{display:grid!important;grid-template-columns:100px 1fr;gap:18px;align-items:center}
+.security>img{width:86px}
+.security p{color:#ddd;line-height:1.5;margin:0}
+
+.payments{grid-column:1/-1;display:grid;grid-template-columns:minmax(150px,220px);justify-content:start}
+.payments img{width:180px;height:58px;object-fit:contain}
+
+.bottom-facts{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid #3d4044;margin-top:24px;padding-top:18px}
+.bottom-facts article{display:flex;align-items:center;justify-content:center;gap:20px;border-right:1px solid #333}
+.bottom-facts article:last-child{border:0}
+.bottom-facts img{width:72px;height:72px;object-fit:contain}
+.bottom-facts h3{text-transform:uppercase;color:#f4dfbd;letter-spacing:.05em;margin:0 0 6px}
+.bottom-facts p{margin:0;color:#ddd;line-height:1.45}
+
+@media(max-width:1000px){
+.topbar nav{display:none}
+.actions{margin-left:auto}
+.hero h1{font-size:62px}
+.box{opacity:.55;right:-100px}
+.shipping-grid,.light-strip,.notes-security{grid-template-columns:1fr}
+.light-strip article+article{border-left:0;border-top:1px solid #999;padding-top:20px;margin-top:20px}
+.benefits{grid-template-columns:1fr 1fr}
+.benefits article{border-bottom:1px solid #333;padding:20px}
+.bottom-facts{grid-template-columns:1fr}
+.bottom-facts article{border-right:0;border-bottom:1px solid #333;padding:15px}
+.case-option{grid-template-columns:1fr 1fr}
+.case-option>div:first-child{grid-column:1/-1}
+}
+
+@media(max-width:600px){
+.brand img{width:205px}
+.topbar{height:72px;padding:0 14px}
+.actions{display:none}
+.hero{padding:55px 22px;min-height:450px}
+.hero h1{font-size:50px}
+.hero-copy>p:last-child{font-size:17px}
+.box{width:500px;right:-230px;bottom:10px}
+.policy-shell{margin-top:-30px;padding:14px}
+.shipping-card{padding:20px 15px}
+
+.card-heading{
+gap:10px;
+}
+
+.card-heading img{
+width:96px;
+height:96px;
+}
+
+.rates.three,.rates.two{grid-template-columns:1fr}
+.rates>div{border-right:0;border-bottom:1px solid #444;padding:12px}
+.rates>div:last-child{border:0}
+.benefits{grid-template-columns:1fr}
+.security{grid-template-columns:1fr;text-align:center}
+.payments{grid-template-columns:1fr}
+}
+
+/* Final shipping spacing corrections */
+.card-heading{gap:32px}.card-heading img{margin-right:0}.hero{background:linear-gradient(90deg,rgba(0,0,0,.96),rgba(0,0,0,.68) 46%,rgba(0,0,0,.1)),url('assets/shipping-hero-room.png') center/cover}.shipping-page .action-button{width:42px;height:42px;display:grid;place-items:center;border:1px solid #2d3239;border-radius:50%;background:#0b0e12;color:#fff;text-decoration:none;position:relative}.shipping-page .action-button svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}.shipping-page .action-button span{position:absolute;top:-4px;right:-3px;background:var(--orange);border-radius:50%;width:19px;height:19px;font:700 11px/19px Arial;text-align:center}@media(max-width:600px){.card-heading{gap:22px}}

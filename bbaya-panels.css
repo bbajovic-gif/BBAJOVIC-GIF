@@ -1,0 +1,479 @@
+/*
+   BBaya.net — Cinematic panel artwork v2
+
+   IMPORTANT:
+   This stylesheet does not change pathway height, min-height,
+   grid dimensions, section dimensions or panel padding.
+*/
+
+.bbaya-panel {
+  --pointer-x: 50%;
+  --pointer-y: 35%;
+  --tilt-x: 0deg;
+  --tilt-y: 0deg;
+  --art-x: 0px;
+  --art-y: 0px;
+
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  transform-style: preserve-3d;
+
+  transition:
+    transform 420ms cubic-bezier(.2,.75,.2,1),
+    border-color 420ms ease,
+    box-shadow 420ms ease;
+}
+
+/* The old circular icons were removed from the HTML. */
+.bbaya-panel .pathway-icon {
+  display: none !important;
+}
+
+.bbaya-panel-bg {
+  transform: scale(1.015);
+  transform-origin: center;
+  filter: brightness(.63) saturate(.94) contrast(1.06);
+
+  transition:
+    transform 700ms cubic-bezier(.2,.75,.2,1),
+    filter 500ms ease;
+}
+
+/* Keep the original dark treatment, then add a moving local glow. */
+.bbaya-panel .pathway-overlay {
+  z-index: 2;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(0,0,0,.02) 0%,
+      rgba(0,0,0,.10) 38%,
+      rgba(0,0,0,.78) 78%,
+      rgba(0,0,0,.94) 100%
+    );
+}
+
+.bbaya-panel-spotlight,
+.bbaya-panel-vignette,
+.bbaya-panel-art {
+  position: absolute;
+  pointer-events: none;
+}
+
+.bbaya-panel-spotlight {
+  inset: 0;
+  z-index: 3;
+
+  opacity: .55;
+  background:
+    radial-gradient(
+      circle 245px at var(--pointer-x) var(--pointer-y),
+      rgba(var(--panel-accent), .34),
+      rgba(var(--panel-accent), .10) 38%,
+      transparent 73%
+    );
+
+  mix-blend-mode: screen;
+  transition: opacity 350ms ease;
+}
+
+.bbaya-panel-vignette {
+  inset: 0;
+  z-index: 4;
+
+  box-shadow:
+    inset 0 0 0 1px rgba(var(--panel-accent), .28),
+    inset 0 -95px 125px rgba(0,0,0,.60),
+    inset 0 0 76px rgba(0,0,0,.30);
+}
+
+.bbaya-panel-art {
+  inset: 0 0 auto;
+  height: 68%;
+  z-index: 6;
+  overflow: hidden;
+
+  transform: translate3d(var(--art-x), var(--art-y), 0);
+  transition: transform 180ms ease-out;
+}
+
+.bbaya-panel .pathway-copy {
+  position: relative;
+  z-index: 10;
+}
+
+
+/* ================================================================
+   SHARED ARTWORK
+   ================================================================ */
+
+.bbaya-art-icon,
+.bbaya-market-icon,
+.bbaya-trusted,
+.bbaya-toolkit-screen,
+.bbaya-rdm-logo {
+  display: block !important;
+  position: absolute;
+  object-fit: contain !important;
+  max-width: none !important;
+  pointer-events: none;
+  user-select: none;
+
+  opacity: .74;
+
+  filter:
+    saturate(.90)
+    drop-shadow(0 16px 20px rgba(0,0,0,.60))
+    drop-shadow(0 0 13px rgba(var(--panel-accent), .13));
+
+  transition:
+    opacity 420ms ease,
+    transform 620ms cubic-bezier(.2,.75,.2,1),
+    filter 420ms ease;
+}
+
+
+/* ================================================================
+   LIBRARY
+   The large circular library symbol is intentionally removed.
+   ================================================================ */
+
+.bbaya-stat {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 12;
+
+  display: grid;
+  gap: 1px;
+  min-width: 90px;
+  padding: 10px 13px;
+
+  color: #fff;
+  border: 1px solid rgba(var(--panel-accent), .64);
+  border-radius: 10px;
+  background: rgba(5,7,11,.66);
+
+  box-shadow:
+    0 10px 24px rgba(0,0,0,.38),
+    inset 0 0 18px rgba(var(--panel-accent), .07);
+
+  backdrop-filter: blur(9px);
+}
+
+.bbaya-stat strong {
+  font-size: clamp(20px,2vw,29px);
+  line-height: 1;
+}
+
+.bbaya-stat span {
+  color: rgba(255,255,255,.72);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.bbaya-library-art .bbaya-art-icon {
+  bottom: -7%;
+}
+
+.library-vinyl {
+  left: -2%;
+  width: clamp(92px,27%,155px) !important;
+  transform: rotate(-8deg);
+}
+
+.library-cd {
+  left: 18%;
+  width: clamp(82px,24%,140px) !important;
+  transform: translateY(5px) rotate(6deg);
+}
+
+.library-sacd {
+  left: 38%;
+  width: clamp(76px,22%,128px) !important;
+  transform: translateY(9px) rotate(-4deg);
+}
+
+.library-cassette {
+  left: 57%;
+  width: clamp(74px,21%,122px) !important;
+  transform: translateY(13px) rotate(7deg);
+}
+
+.library-bluray {
+  right: -1%;
+  width: clamp(78px,23%,132px) !important;
+  transform: translateY(5px) rotate(-6deg);
+}
+
+
+/* ================================================================
+   TOOLKIT
+   ================================================================ */
+
+.bbaya-toolkit-screen {
+  top: 8%;
+  left: 17%;
+  width: 76% !important;
+  height: 63% !important;
+
+  opacity: .67;
+  border: 1px solid rgba(255,255,255,.28);
+  border-radius: 9px;
+
+  transform:
+    perspective(900px)
+    rotateY(-7deg)
+    rotateZ(1.2deg)
+    scale(.94);
+
+  box-shadow:
+    0 22px 42px rgba(0,0,0,.66),
+    0 0 0 1px rgba(var(--panel-accent), .18);
+}
+
+.bbaya-marketplaces {
+  position: absolute;
+  top: 10%;
+  left: 1%;
+  width: 24%;
+  height: 72%;
+  z-index: 13;
+}
+
+.bbaya-market-icon {
+  left: 0;
+  width: clamp(45px,70%,76px) !important;
+  height: clamp(45px,70%,76px) !important;
+}
+
+.market-discogs  { top:  0%; transform: rotate(-7deg); }
+.market-ebay     { top: 17%; transform: rotate( 6deg); }
+.market-facebook { top: 35%; transform: rotate(-4deg); }
+.market-kijiji   { top: 53%; transform: rotate( 7deg); }
+.market-kp       { top: 71%; transform: rotate(-5deg); }
+
+.bbaya-trusted {
+  right: 2%;
+  bottom: -3%;
+  width: clamp(68px,20%,112px) !important;
+  transform: rotate(7deg);
+  opacity: .65;
+}
+
+
+/* ================================================================
+   RDM PLAY STUDIO
+   ================================================================ */
+
+.bbaya-rdm-logo {
+  top: 14px;
+  left: 50%;
+  width: clamp(125px,37%,205px) !important;
+
+  opacity: .72;
+  transform: translateX(-50%) rotate(-1deg);
+}
+
+.rdm-theater {
+  left: -5%;
+  bottom: -9%;
+  width: clamp(115px,35%,205px) !important;
+  transform: rotate(-6deg);
+}
+
+.rdm-projector {
+  right: 17%;
+  bottom: -8%;
+  width: clamp(125px,38%,220px) !important;
+  transform: rotate(4deg);
+}
+
+.rdm-movies {
+  right: -2%;
+  bottom: -4%;
+  width: clamp(77px,23%,132px) !important;
+  transform: rotate(8deg);
+}
+
+.rdm-classics {
+  right: 3%;
+  top: 22%;
+  width: clamp(62px,18%,102px) !important;
+  transform: rotate(-7deg);
+  opacity: .56;
+}
+
+
+/* ================================================================
+   HOVER / POINTER EFFECT
+   ================================================================ */
+
+@media (hover:hover) and (pointer:fine) {
+
+  .bbaya-panel:hover {
+    z-index: 8;
+
+    transform:
+      perspective(1100px)
+      translateY(-5px)
+      rotateX(var(--tilt-x))
+      rotateY(var(--tilt-y));
+
+    border-color: rgba(var(--panel-accent), .72);
+
+    box-shadow:
+      0 25px 55px rgba(0,0,0,.52),
+      0 0 0 1px rgba(var(--panel-accent), .35),
+      0 0 28px rgba(var(--panel-accent), .15);
+  }
+
+  .bbaya-panel:hover .bbaya-panel-bg {
+    transform: scale(1.065);
+    filter: brightness(.72) saturate(1.06) contrast(1.06);
+  }
+
+  .bbaya-panel:hover .bbaya-panel-spotlight {
+    opacity: .92;
+  }
+
+  .bbaya-panel:hover .bbaya-art-icon,
+  .bbaya-panel:hover .bbaya-market-icon,
+  .bbaya-panel:hover .bbaya-trusted,
+  .bbaya-panel:hover .bbaya-toolkit-screen,
+  .bbaya-panel:hover .bbaya-rdm-logo {
+    opacity: .93;
+
+    filter:
+      saturate(1.02)
+      drop-shadow(0 18px 22px rgba(0,0,0,.64))
+      drop-shadow(0 0 17px rgba(var(--panel-accent), .24));
+  }
+
+  /* Icons straighten slightly and lift instead of jumping dramatically. */
+  .bbaya-panel:hover .library-vinyl {
+    transform: translateY(-8px) rotate(-4deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .library-cd {
+    transform: translateY(-5px) rotate(3deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .library-sacd {
+    transform: translateY(-3px) rotate(-2deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .library-cassette {
+    transform: translateY(-1px) rotate(4deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .library-bluray {
+    transform: translateY(-6px) rotate(-3deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .bbaya-toolkit-screen {
+    transform:
+      translate(-5px,-7px)
+      perspective(900px)
+      rotateY(-3deg)
+      rotateZ(.4deg)
+      scale(.985);
+  }
+
+  .bbaya-panel:hover .market-discogs  { transform: translate(-3px,-3px) rotate(-4deg) scale(1.04); }
+  .bbaya-panel:hover .market-ebay     { transform: translate( 2px,-4px) rotate( 3deg) scale(1.04); }
+  .bbaya-panel:hover .market-facebook { transform: translate(-2px,-4px) rotate(-2deg) scale(1.04); }
+  .bbaya-panel:hover .market-kijiji   { transform: translate( 2px,-4px) rotate( 4deg) scale(1.04); }
+  .bbaya-panel:hover .market-kp       { transform: translate(-2px,-4px) rotate(-3deg) scale(1.04); }
+
+  .bbaya-panel:hover .bbaya-trusted {
+    transform: translate(-4px,-7px) rotate(3deg) scale(1.04);
+  }
+
+  .bbaya-panel:hover .bbaya-rdm-logo {
+    transform: translateX(-50%) translateY(-4px) rotate(0deg) scale(1.025);
+  }
+
+  .bbaya-panel:hover .rdm-theater {
+    transform: translate(5px,-7px) rotate(-3deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .rdm-projector {
+    transform: translate(-4px,-8px) rotate(2deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .rdm-movies {
+    transform: translate(-4px,-6px) rotate(5deg) scale(1.035);
+  }
+
+  .bbaya-panel:hover .rdm-classics {
+    transform: translate(-3px,-5px) rotate(-4deg) scale(1.035);
+    opacity: .78;
+  }
+
+  .bbaya-panel .pathway-copy a {
+    overflow: hidden;
+    transition:
+      transform 300ms ease,
+      filter 300ms ease,
+      box-shadow 300ms ease;
+  }
+
+  .bbaya-panel .pathway-copy a span {
+    display: inline-block;
+    transition: transform 300ms ease;
+  }
+
+  .bbaya-panel:hover .pathway-copy a {
+    transform: translateY(-2px);
+    filter: brightness(1.07);
+    box-shadow:
+      0 13px 25px rgba(0,0,0,.27),
+      0 0 18px rgba(var(--panel-accent), .14);
+  }
+
+  .bbaya-panel:hover .pathway-copy a span {
+    transform: translateX(5px);
+  }
+}
+
+
+/* Reduce artwork only on narrow screens. Panel dimensions stay untouched. */
+@media (max-width:760px) {
+  .bbaya-panel-art {
+    height: 61%;
+  }
+
+  .library-sacd,
+  .library-cassette,
+  .market-kp,
+  .bbaya-trusted,
+  .rdm-classics {
+    display: none !important;
+  }
+
+  .library-vinyl { left: 3%; }
+  .library-cd { left: 34%; }
+  .library-bluray { right: 3%; }
+
+  .bbaya-toolkit-screen {
+    left: 18%;
+    width: 80% !important;
+  }
+}
+
+
+@media (prefers-reduced-motion:reduce) {
+  .bbaya-panel,
+  .bbaya-panel *,
+  .bbaya-panel::before,
+  .bbaya-panel::after {
+    transition-duration: .01ms !important;
+  }
+
+  .bbaya-panel:hover {
+    transform: none !important;
+  }
+}

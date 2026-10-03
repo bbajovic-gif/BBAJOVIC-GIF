@@ -1,0 +1,11 @@
+Place the signed Windows 11 trial installer in this folder using this filename:
+
+RDM-PlayStudio-Trial-Setup.exe
+
+Then edit ../site-config.js and change:
+
+trialReady: false
+
+to:
+
+trialReady: true

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">RDM PlayStudio app icon</title>
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd165"/>
+      <stop offset="1" stop-color="#ffae28"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="63" fill="url(#badge)"/>
+  <path d="M204 38c8 23 22 37 45 45-23 8-37 22-45 45-8-23-22-37-45-45 23-8 37-22 45-45Z" fill="#58e49b"/>
+  <text x="126" y="177" text-anchor="middle" fill="#101b2b" font-family="Segoe UI, Arial, sans-serif" font-size="104" font-weight="900" letter-spacing="-9">RD</text>
+</svg>

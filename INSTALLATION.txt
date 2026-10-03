@@ -1,0 +1,16 @@
+BBaya.net — Connected Ecosystem Update
+
+Replace these four files in the root of your current BBaya.net website:
+- index.html
+- about.html
+- styles.css
+- example-pages.css
+
+No images, JavaScript files, library pages, or catalog data are changed.
+
+What this update adds:
+- restrained connected-ecosystem message in the homepage introduction
+- "One collection. Three supporting studios." connector section
+- Manage & Research → Organize & Present → Design & Refine → Publish & Sell flow
+- refined purpose statement for each software branch
+- expanded About Me story explaining how the collection, software, website and visual design belong together
