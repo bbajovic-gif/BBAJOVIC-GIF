@@ -1,0 +1,3 @@
+Put your redesigned BBaja/eBay listing logos here.
+Supported file types: PNG, JPG, JPEG, WEBP, GIF, SVG.
+The eBay Template Studio will show them in the "Logo from assets/logos" dropdown.
