@@ -7,3 +7,15 @@
 @media(max-width:600px){#bbaya-concept .records{grid-template-columns:repeat(2,minmax(0,1fr))}#bbaya-concept nav{width:100%;gap:15px}#bbaya-concept .trust{display:grid;grid-template-columns:1fr 1fr}}
 .seller-modules{padding:50px 0}.seller-module-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin:28px 0}.seller-module-grid article{border-top:1px solid #3b414a;padding-top:16px}.seller-module-grid small{color:#ff852d}.seller-module-grid h3{font-size:20px}.seller-module-grid p{color:#bcb8ae;line-height:1.6}.seller-module-grid a{color:#ff852d}@media(max-width:700px){.seller-module-grid{grid-template-columns:1fr 1fr}}@media(max-width:420px){.seller-module-grid{grid-template-columns:1fr}}
 .cinematic-overview .program-home{background:transparent!important;box-shadow:none!important;color:#bcb8ae!important;border:1px solid #41413a!important;font-size:12px!important;padding:9px 12px!important}.cinematic-overview .cinema-hero{min-height:0;padding-top:45px;padding-bottom:45px}.cinematic-overview .cinema-copy h1{font-size:clamp(36px,4.6vw,64px);line-height:1.08}.cinematic-overview .source-ghost,.cinematic-overview .energy,.cinematic-overview .floating-detail,.cinematic-overview .scroll-cue{display:none}.cinematic-overview .control-center-shot{transform:none!important}.cinematic-overview .cinema-stage{min-height:0}.cinematic-overview .cinema-layout{align-items:center}.cinematic-overview .cinema-haze{opacity:.25}@media(max-width:700px){.cinematic-overview .cinema-hero{padding-top:28px}.cinematic-overview .cinema-copy h1{font-size:40px}.cinematic-overview .cinema-stage{padding-top:20px}}
+
+/* Compact featured inventory: ten records, two desktop rows. */
+#bbaya-concept .records{grid-template-columns:repeat(5,minmax(0,1fr));gap:24px 16px}
+#bbaya-concept .record{min-width:0}
+#bbaya-concept .sleeve{max-width:150px;margin:0 auto;width:100%}
+#bbaya-concept .record h3{font-size:12px;line-height:1.4;margin-top:10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:34px}
+#bbaya-concept .record p{font-size:10px;line-height:1.4;margin:4px 0 8px}
+#bbaya-concept .record .record-title{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:28px}
+#bbaya-concept .record .price{font-size:16px}
+#bbaya-concept .record-link{font-size:11px;margin-top:8px;padding:8px 0}
+@media(max-width:700px){#bbaya-concept .records{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 14px}}
+@media(max-width:460px){#bbaya-concept .records{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 14px}}
