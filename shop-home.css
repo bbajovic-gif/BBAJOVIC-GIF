@@ -52,3 +52,16 @@
 @media(max-width:600px){#bbaya-concept .software{margin-top:20px;padding:36px 20px 30px}#bbaya-concept .software-intro{grid-template-columns:1fr;gap:25px}#bbaya-concept .software-intro .eyebrow{font-size:17px}#bbaya-concept .software-intro h2{font-size:42px}}
 
 #bbaya-concept .home-sale-badge{position:absolute;top:5px;left:5px;z-index:2;background:#ff852d;color:#17110c;padding:4px 7px;font:bold 10px Arial;border-radius:3px}
+
+/* Aligned shopping and seller introduction, with original marketplace badges. */
+#bbaya-concept .hero{grid-template-rows:auto auto auto auto;row-gap:16px;align-items:start}
+#bbaya-concept .hero>div,#bbaya-concept .hero-aside{display:grid;grid-template-rows:subgrid;grid-row:1/span 4;row-gap:16px}
+#bbaya-concept .hero-aside{margin-top:0;padding-top:0;padding-bottom:0}
+#bbaya-concept .hero .eyebrow,#bbaya-concept .hero h1,#bbaya-concept .hero .copy,#bbaya-concept .hero-aside>p,#bbaya-concept .hero-aside>b{margin-top:0;margin-bottom:0}
+#bbaya-concept .hero-aside>b{align-self:start}
+#bbaya-concept .hero-aside>p:not(.eyebrow){font-size:14px;line-height:1.65}
+#bbaya-concept .hero .actions{align-self:start;margin-top:0}
+#bbaya-concept .seller-trust-badges{width:100%;max-width:400px;height:auto;align-self:start;display:block}
+#bbaya-concept .module-icon,.seller-module-grid .module-icon{display:block;width:32px;height:32px;color:#ff852d;margin:0 0 13px}
+#bbaya-concept .step{padding-top:16px}
+@media(max-width:600px){#bbaya-concept .hero{grid-template-rows:none;row-gap:28px}#bbaya-concept .hero>div,#bbaya-concept .hero-aside{grid-row:auto;grid-template-rows:none;gap:16px}#bbaya-concept .hero-aside{padding-top:24px;margin-top:0}#bbaya-concept .seller-trust-badges{max-width:340px}}
