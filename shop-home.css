@@ -50,3 +50,5 @@
 #bbaya-concept .software-intro p:not(.eyebrow):not(.note){font-size:15px;line-height:1.65;margin-top:23px}
 #bbaya-concept .software-intro .note{font-size:11px}
 @media(max-width:600px){#bbaya-concept .software{margin-top:20px;padding:36px 20px 30px}#bbaya-concept .software-intro{grid-template-columns:1fr;gap:25px}#bbaya-concept .software-intro .eyebrow{font-size:17px}#bbaya-concept .software-intro h2{font-size:42px}}
+
+#bbaya-concept .home-sale-badge{position:absolute;top:5px;left:5px;z-index:2;background:#ff852d;color:#17110c;padding:4px 7px;font:bold 10px Arial;border-radius:3px}
