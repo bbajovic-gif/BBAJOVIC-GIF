@@ -84,3 +84,9 @@
 /* Same media badges as Library, sized for the compact homepage covers. */
 #bbaya-concept .home-format-badge{position:absolute;bottom:5px;left:5px;z-index:2;display:flex;align-items:center;gap:4px;padding:3px 6px;border-radius:999px;background:rgba(8,9,11,.9);color:#fff;font:900 9px/1.2 Arial}
 #bbaya-concept .sleeve .home-format-badge img{position:static;inset:auto;width:23px;height:23px;object-fit:contain}
+
+/* Optional lighter CD shipping, alongside the bundle offer. */
+#bbaya-concept .promo .shipping-saving{display:flex;align-items:center;gap:14px;margin-top:17px;max-width:660px;padding-top:15px;border-top:1px solid #8f836f60;color:#29271f;font-size:12px;line-height:1.5;text-decoration:none}
+#bbaya-concept .shipping-saving img{width:64px;height:64px;object-fit:contain;border-radius:8px;flex-shrink:0}
+#bbaya-concept .shipping-saving strong{font-size:15px}
+@media(max-width:460px){#bbaya-concept .promo .shipping-saving{align-items:flex-start}#bbaya-concept .shipping-saving img{width:54px;height:54px}}
