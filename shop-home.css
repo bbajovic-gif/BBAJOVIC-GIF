@@ -80,3 +80,7 @@
 #bbaya-concept .program-heading .program-icon{padding:10px;background:#27271f;border:1px solid #48483c}
 #bbaya-concept .symbol .program-icon{width:56px;height:56px}
 @media(max-width:700px){#bbaya-concept .trust{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}#bbaya-concept .trust img{width:40px;height:40px}}
+
+/* Same media badges as Library, sized for the compact homepage covers. */
+#bbaya-concept .home-format-badge{position:absolute;bottom:5px;left:5px;z-index:2;display:flex;align-items:center;gap:4px;padding:3px 6px;border-radius:999px;background:rgba(8,9,11,.9);color:#fff;font:900 9px/1.2 Arial}
+#bbaya-concept .sleeve .home-format-badge img{position:static;inset:auto;width:23px;height:23px;object-fit:contain}
