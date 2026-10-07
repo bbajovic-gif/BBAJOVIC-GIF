@@ -90,3 +90,13 @@
 #bbaya-concept .shipping-saving img{width:64px;height:64px;object-fit:contain;border-radius:8px;flex-shrink:0}
 #bbaya-concept .shipping-saving strong{font-size:15px}
 @media(max-width:460px){#bbaya-concept .promo .shipping-saving{align-items:flex-start}#bbaya-concept .shipping-saving img{width:54px;height:54px}}
+
+/* Compact side-by-side bundle and shipping offers. */
+#bbaya-concept .promo{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center;padding:18px 24px}
+#bbaya-concept .promo h2{font-size:25px}#bbaya-concept .promo h3{font-size:17px;margin:0}
+#bbaya-concept .promo p{font-size:12px;margin:6px 0;line-height:1.45}
+#bbaya-concept .promo .eyebrow{font-size:10px;margin:0 0 5px}
+#bbaya-concept .shipping-column{display:flex;align-items:center;gap:14px;border-left:1px solid #8f836f60;padding-left:24px}
+#bbaya-concept .shipping-column img{width:64px;height:64px;object-fit:contain;flex-shrink:0;border-radius:8px}
+#bbaya-concept .offer-detail-link{display:inline-block;font-size:12px;font-weight:bold;margin-top:5px;color:#77542d}
+@media(max-width:600px){#bbaya-concept .promo{grid-template-columns:1fr;gap:16px}#bbaya-concept .shipping-column{border-left:0;border-top:1px solid #8f836f60;padding-left:0;padding-top:14px}}
