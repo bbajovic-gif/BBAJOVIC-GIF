@@ -100,3 +100,8 @@
 #bbaya-concept .shipping-column img{width:64px;height:64px;object-fit:contain;flex-shrink:0;border-radius:8px}
 #bbaya-concept .offer-detail-link{display:inline-block;font-size:12px;font-weight:bold;margin-top:5px;color:#77542d}
 @media(max-width:600px){#bbaya-concept .promo{grid-template-columns:1fr;gap:16px}#bbaya-concept .shipping-column{border-left:0;border-top:1px solid #8f836f60;padding-left:0;padding-top:14px}}
+
+.offer-explainer{display:grid;grid-template-columns:120px minmax(0,1fr);gap:24px;align-items:start;margin:26px 0;padding-top:24px;border-top:1px solid #3a3a33}
+.offer-explainer .offer-art{width:120px;height:120px;object-fit:contain;border-radius:12px}
+.offer-explainer h3{margin:0 0 10px;color:#ff852d;font-size:21px}.offer-explainer p{line-height:1.6;color:#f8f4eb}
+@media(max-width:480px){.offer-explainer{grid-template-columns:80px minmax(0,1fr);gap:14px}.offer-explainer .offer-art{width:80px;height:80px}}
