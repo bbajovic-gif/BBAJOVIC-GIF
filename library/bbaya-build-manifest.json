@@ -1,0 +1,19 @@
+{
+  "publisher": "BBaya.net Storefront Phase 1",
+  "records": 4519,
+  "image_priority": [
+    "USER",
+    "DISCOGS",
+    "PLACEHOLDER"
+  ],
+  "outputs": [
+    "index.html",
+    "canada.html",
+    "canada.json",
+    "records/",
+    "assets/"
+  ],
+  "catalog_page": "canada.html",
+  "gateway_page": "index.html",
+  "data_file": "canada.json"
+}

@@ -34,3 +34,30 @@ window.BBayaCart={
 };
 document.addEventListener('click',e=>{const remove=e.target.closest('[data-remove]');if(remove)window.BBayaCart.remove(remove.dataset.remove);const add=e.target.closest('[data-add-cart]');if(add&&window.BBAYA_RECORD)window.BBayaCart.add(window.BBAYA_RECORD)});
 document.addEventListener('DOMContentLoaded',()=>{window.BBayaCart.updateCount();window.BBayaCart.render()});
+
+// MOD6 COPY CART ADAPTER START
+// Use the selected physical copy's actual image, including own photos and placeholders.
+window.BBayaCart.imageUrl=function(record){
+    const source=String(record?.primary_image||record?.images?.[0]||'');
+    if(!source||/^(?:https?:|data:|\/)/i.test(source))return source;
+    const path=String(location.pathname);
+    if(path.includes('/library/records/'))return '../'+source;
+    return path.includes('/library/')?source:'library/'+source;
+};
+const bbayaCopyAdd=window.BBayaCart.add.bind(window.BBayaCart);
+window.BBayaCart.add=function(record){if(record&&record.can_buy)bbayaCopyAdd(record)};
+// MOD6 COPY CART ADAPTER END
+/* Refresh saved selections from current catalog prices when opening the cart. */
+(()=>{
+  const src=document.currentScript?.src;
+  if(!src||!window.BBayaCart||!window.BBayaCart.get().length)return;
+  Promise.all(['canada','serbia'].map(name=>fetch(new URL('../../'+name+'.json',src),{cache:'no-store'}).then(r=>r.ok?r.json():{records:[]}).catch(()=>({records:[]}))))
+    .then(catalogs=>{
+      const current=new Map(catalogs.flatMap(c=>c.records||[]).map(r=>[r.copy_id,r]));
+      const items=window.BBayaCart.get().map(old=>{
+        const r=current.get(old.copy_id);
+        return r&&r.can_buy?{...old,asking_price:r.asking_price,regular_price:r.regular_price,promotion_price:r.promotion_price,on_promotion:r.on_promotion}:old;
+      });
+      window.BBayaCart.save(items);
+    });
+})();
