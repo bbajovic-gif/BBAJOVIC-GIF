@@ -65,3 +65,18 @@
 #bbaya-concept .module-icon,.seller-module-grid .module-icon{display:block;width:32px;height:32px;color:#ff852d;margin:0 0 13px}
 #bbaya-concept .step{padding-top:16px}
 @media(max-width:600px){#bbaya-concept .hero{grid-template-rows:none;row-gap:28px}#bbaya-concept .hero>div,#bbaya-concept .hero-aside{grid-row:auto;grid-template-rows:none;gap:16px}#bbaya-concept .hero-aside{padding-top:24px;margin-top:0}#bbaya-concept .seller-trust-badges{max-width:340px}}
+
+/* Original BBaya cart control and the existing program / shopping icons. */
+#bbaya-concept .header-cart{position:relative;display:grid;place-items:center;width:42px;height:42px;padding:0;border:1px solid #2d3239;border-radius:50%;background:#0b0e12;color:#fff;flex-shrink:0}
+#bbaya-concept .header-cart svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+#bbaya-concept .header-cart [data-cart-count]{position:absolute;top:-7px;right:-7px;display:grid;place-items:center;width:20px;height:20px;border:2px solid #050607;border-radius:50%;background:#ff6500;color:#fff;font:800 11px/1 Arial}
+#bbaya-concept .header-cart:hover{border-color:#ff6500;color:#ff6500}
+#bbaya-concept .trust{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;align-items:center}
+#bbaya-concept .trust>a{display:flex;align-items:center;gap:10px;line-height:1.4;min-width:0}
+#bbaya-concept .trust img{width:48px;height:48px;object-fit:contain;flex-shrink:0;border-radius:7px}
+#bbaya-concept .program-heading{display:flex;align-items:center;gap:16px;margin-bottom:18px}
+#bbaya-concept .program-heading .eyebrow{margin:0}
+#bbaya-concept .program-icon{display:block;width:64px;height:64px;object-fit:contain;border-radius:10px}
+#bbaya-concept .program-heading .program-icon{padding:10px;background:#27271f;border:1px solid #48483c}
+#bbaya-concept .symbol .program-icon{width:56px;height:56px}
+@media(max-width:700px){#bbaya-concept .trust{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}#bbaya-concept .trust img{width:40px;height:40px}}
