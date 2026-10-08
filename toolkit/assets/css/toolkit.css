@@ -617,7 +617,7 @@ footer { border-top:1px solid var(--line); background:#02070c; padding:42px 0 28
 .feature-callout strong { display:block; color:var(--orange); font-size:.79rem; text-transform:uppercase; letter-spacing:.04em; }
 .feature-callout span { display:block; margin-top:4px; color:#d5dfe7; font-size:.82rem; line-height:1.35; }
 .feature-callout::after { content:""; position:absolute; background:var(--orange); box-shadow:0 0 12px rgba(249,115,22,.75); }
-.feature-callout::before { content:""; position:absolute; width:9px;height:9px;border-radius:50%;background:#ffd1ad;border:2px solid var(--orange);box-shadow:0 0 13px var(--orange); }
+.feature-callout::before { content:none; display:none; }
 .callout-import { top:0; left:32%; }
 .callout-import::after { width:2px;height:68px;left:50%;top:100%; }
 .callout-import::before { left:calc(50% - 4px); top:calc(100% + 63px); }
@@ -876,3 +876,12 @@ footer { border-top:1px solid var(--line); background:#02070c; padding:42px 0 28
 .module-card.control-card{grid-column:1/-1;display:grid;grid-template-columns:1.3fr .7fr}.module-card.control-card img{height:100%;max-height:420px}.module-card.control-card .module-card-body{display:flex;flex-direction:column;justify-content:center}
 @media(max-width:1100px){.mod0-intro{grid-template-columns:1fr}.mod0-stage{min-height:700px}.control-domain-grid{grid-template-columns:1fr 1fr}.module-card.control-card{grid-template-columns:1fr}}
 @media(max-width:700px){.mod0-stage{min-height:auto;padding-top:20px}.mod0-main-shot{position:relative;inset:auto;width:100%}.mod0-stage .feature-callout{position:relative;inset:auto!important;max-width:none;margin-top:12px}.mod0-stage .feature-callout:after{display:none}.control-domain-grid,.control-map{grid-template-columns:1fr}.control-map .hub{grid-column:auto}}
+
+/* Remove decorative dots that overlap callout headings. */
+.feature-callout::before{display:none}
+.posting-template-section{background:linear-gradient(180deg,#06121e,#02070c);border-top:1px solid var(--line)}
+.posting-template-section h2{font-size:clamp(2rem,4vw,3.6rem);line-height:1.1;margin:12px 0 28px}
+.posting-template-section .platform-posting-grid{margin-top:30px}
+.posting-iconlab{margin-top:38px;padding:28px;border:1px solid rgba(249,115,22,.35);border-left:3px solid var(--orange);border-radius:16px;background:rgba(249,115,22,.06)}
+.posting-iconlab h3{font-size:1.5rem;margin:10px 0}
+.posting-iconlab p:not(.eyebrow){max-width:850px;color:#b5c5d2}

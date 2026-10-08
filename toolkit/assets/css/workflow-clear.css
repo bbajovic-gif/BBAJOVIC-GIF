@@ -1,0 +1,15 @@
+/* Shared overview and workflow diagram */
+.clear-workflow{background:linear-gradient(180deg,#06121e,#030911);border-block:1px solid var(--line)}
+.clear-workflow h2,.clear-details h2{font-size:clamp(2rem,4vw,3.8rem);line-height:1.08;letter-spacing:-.035em;margin:10px 0 20px}
+.clear-flow{list-style:none;padding:0;margin:38px 0 24px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+.clear-flow>li{position:relative;min-width:0;padding:26px;border:1px solid var(--line-strong);border-radius:18px;background:linear-gradient(145deg,#0c2234,#07111c);display:flex;flex-direction:column}
+.clear-flow>li:not(:last-child)::after{content:"→";position:absolute;right:-25px;top:40px;color:var(--orange);font-size:26px}
+.clear-number{display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:rgba(249,115,22,.12);border:1px solid var(--orange);color:var(--orange);font-weight:900}
+.clear-flow h3{font-size:1.45rem;margin:20px 0 10px;line-height:1.2}.clear-flow p{color:#b5c5d2;margin:0 0 22px}
+.clear-flow img{width:100%;aspect-ratio:16/10;object-fit:cover;object-position:top;border-radius:10px;border:1px solid var(--line);margin-top:auto}
+.clear-flow>li>a{color:#8fd1ff;font-weight:700;margin-top:18px}
+.clear-outputs{display:grid;gap:12px;margin-top:auto}.clear-outputs a{display:block;padding:18px;border:1px solid rgba(249,115,22,.35);border-radius:12px;background:rgba(249,115,22,.055)}.clear-outputs strong{display:block;color:#ff9a4a;margin-bottom:6px}.clear-outputs span{display:block;color:#b5c5d2;font-size:.92rem}
+.clear-cycle{padding:18px 22px;border-left:3px solid var(--orange);background:rgba(249,115,22,.06);color:#c8d5df;margin:24px 0}.clear-cycle span{font-size:1.4rem;color:var(--orange);margin-right:10px}
+.clear-detail-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin:30px 0}.clear-detail-grid article{padding:24px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}.clear-detail-grid h3{margin-top:0}.clear-detail-grid ul{padding-left:20px;color:#b5c5d2}.clear-detail-grid li{margin-bottom:12px}.clear-detail-grid a{color:#8fd1ff}.clear-module-links{display:grid;gap:8px}
+.clear-workflow a:hover,.clear-details a:hover{text-decoration:underline}.clear-workflow a:focus-visible,.clear-details a:focus-visible{outline:2px solid var(--orange);outline-offset:4px}
+@media(max-width:950px){.clear-flow,.clear-detail-grid{grid-template-columns:1fr}.clear-flow{gap:32px}.clear-flow>li:not(:last-child)::after{content:"↓";top:auto;bottom:-33px;right:calc(50% - 10px)}.clear-flow img{max-height:300px;object-fit:contain;background:#030911}.clear-flow>li{padding:22px}}

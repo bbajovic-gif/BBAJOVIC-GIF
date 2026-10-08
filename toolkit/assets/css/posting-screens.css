@@ -1,0 +1,8 @@
+.mod5-screen-walkthrough{background:linear-gradient(180deg,#06121e,#02070c);border-bottom:1px solid var(--line)}
+.mod5-screen-walkthrough h2{font-size:clamp(2rem,4vw,3.7rem);line-height:1.1;max-width:1000px;margin:12px 0 22px}
+.posting-screen-grid{display:grid;gap:34px;margin-top:38px;max-width:1250px;margin-inline:auto}
+.posting-screen{margin:0;border:1px solid var(--line-strong);border-radius:18px;background:var(--panel);overflow:hidden}
+.posting-screen figcaption{padding:24px 28px}.posting-screen h3{font-size:1.5rem;margin:8px 0}.posting-screen p{color:#b5c5d2;max-width:950px;margin:0}
+.posting-screen a{display:block}.posting-screen img{width:100%;height:auto;display:block}
+.posting-screen a:focus-visible{outline:3px solid var(--orange);outline-offset:-3px}
+@media(max-width:700px){.posting-screen figcaption{padding:20px}.posting-screen-grid{gap:22px}}
