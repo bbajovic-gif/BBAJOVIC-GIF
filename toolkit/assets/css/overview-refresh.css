@@ -1,0 +1,16 @@
+.toolkit-brand-logo{width:96px;height:64px;object-fit:contain;flex-shrink:0;border-radius:6px}
+.toolkit-hero-brand{display:flex;align-items:center;gap:18px;margin-bottom:24px}
+.toolkit-hero-brand img{width:144px;height:96px;object-fit:contain;border-radius:8px}
+.toolkit-hero-brand .hero-kicker{margin:0}
+.cinematic-overview .cinema-sub strong{color:#ff9a4a}
+.toolkit-overview-stack{position:relative;min-width:0;height:540px}
+.overview-shot{position:absolute;width:86%;display:block;border:1px solid #477390;border-radius:12px;overflow:hidden;background:#07111c;box-shadow:0 20px 50px #0009}
+.overview-shot img{width:100%;height:auto;display:block}
+.overview-shot span{display:block;padding:9px 14px;font-size:12px;font-weight:700;color:#ff9a4a}
+.overview-control{left:0;top:10px;transform:rotate(-4deg);z-index:1}
+.overview-draft{right:0;top:140px;transform:rotate(3deg);z-index:2}
+.overview-store{left:4%;top:285px;transform:rotate(-2deg);z-index:3}
+.overview-shot:hover,.overview-shot:focus-visible{z-index:4;transform:none;outline:2px solid #ff852d}
+.cinematic-overview .cinema-layout{grid-template-columns:1fr 1.1fr;gap:42px}
+@media(max-width:1100px){.cinematic-overview .cinema-layout{grid-template-columns:1fr}.toolkit-overview-stack{max-width:740px;width:100%;margin:20px auto;min-height:720px}}
+@media(max-width:650px){.toolkit-overview-stack{height:auto;min-height:0;display:grid;gap:18px}.overview-shot{position:relative;inset:auto;width:100%;transform:none}.toolkit-hero-brand img{width:110px;height:74px}.toolkit-brand-logo{width:66px;height:44px}}
