@@ -107,3 +107,63 @@
 @media(max-width:480px){.offer-explainer{grid-template-columns:80px minmax(0,1fr);gap:14px}.offer-explainer .offer-art{width:80px;height:80px}}
 
 #bbaya-concept .bundle-art{float:left;width:64px;height:64px;object-fit:cover;border-radius:8px;margin:8px 14px 16px 0}
+
+/* Homepage refinements: matching hero columns and compact centered shopping cues. */
+#bbaya-concept nav.main-nav .program-nav-link{color:var(--bb-accent);font-family:inherit;font-size:12px;font-weight:700}
+#bbaya-concept .hero{grid-template-columns:1fr 1fr;padding-top:38px;padding-bottom:22px;column-gap:40px;row-gap:12px}
+#bbaya-concept .hero>div,#bbaya-concept .hero-aside{row-gap:12px;background:transparent}
+#bbaya-concept .hero h1,#bbaya-concept .hero-aside>b{font-family:Georgia,serif;font-size:clamp(34px,3.5vw,58px);font-weight:normal;line-height:1.08;letter-spacing:-1.2px;max-width:none}
+#bbaya-concept .hero .copy,#bbaya-concept .hero-aside>p:not(.eyebrow){max-width:460px;font-size:14px;line-height:1.6;color:#ddd8cc}
+#bbaya-concept .hero-aside{padding-left:26px}
+#bbaya-concept .hero .actions{align-self:end;min-height:110px;align-items:center}
+#bbaya-concept .seller-trust-badges{align-self:end;background:transparent}
+#bbaya-concept .trust{display:flex;justify-content:center;gap:24px;padding:12px 24px;flex-wrap:wrap}
+#bbaya-concept .trust>a{justify-content:center;text-align:center;gap:8px}
+#bbaya-concept #bbaya-offers .section-head .eyebrow{font-size:15px;letter-spacing:1.7px}
+#bbaya-concept #bbaya-offers .section-head h2{font-size:clamp(28px,3vw,42px);line-height:1.15;margin:10px 0}
+#bbaya-concept #bbaya-offers .section-head h2 a{font-size:inherit;font-family:Georgia,serif}
+#bbaya-concept .record-browse-links{display:flex;flex-wrap:wrap;gap:12px 22px;justify-content:flex-end}
+#bbaya-concept .promo{max-width:1050px;margin:10px auto 34px;gap:24px;align-items:stretch}
+#bbaya-concept .bundle-column,#bbaya-concept .shipping-column{display:flex;flex-direction:column;align-items:center;text-align:center;padding:14px 20px;gap:0}
+#bbaya-concept .bundle-art{float:none;margin:0 0 12px;object-fit:contain}
+#bbaya-concept .shipping-column>img{margin:0 0 12px}
+#bbaya-concept .promo h2,#bbaya-concept .promo h3{font-family:Georgia,serif;font-size:28px;line-height:1.15;margin:8px 0 12px;font-weight:normal}
+#bbaya-concept .promo p:not(.eyebrow){max-width:340px;margin:8px auto;line-height:1.6}
+#bbaya-concept .promo .eyebrow{font-size:12px;letter-spacing:1.5px}
+@media(max-width:700px){#bbaya-concept .hero{grid-template-columns:1fr;grid-template-rows:none;padding:30px 20px 20px;gap:24px}#bbaya-concept .hero>div,#bbaya-concept .hero-aside{grid-row:auto;grid-template-rows:none}#bbaya-concept .hero-aside{padding:22px 0 0}#bbaya-concept .hero .actions{min-height:0;align-self:start}#bbaya-concept .trust{gap:14px 20px}#bbaya-concept .trust>a{flex:0 1 42%}#bbaya-concept .section-head{flex-wrap:wrap}#bbaya-concept .record-browse-links{justify-content:flex-start}#bbaya-concept .promo{margin:10px 20px 28px;grid-template-columns:1fr}#bbaya-concept .shipping-column{border-left:0;border-top:1px solid #8f836f60}}
+/* Matching hero subheadings on both sides. */
+#bbaya-concept .hero .eyebrow{color:var(--bb-accent);font-family:Arial,sans-serif;font-size:10px;font-weight:700;line-height:1.4;letter-spacing:2px;text-transform:uppercase;max-width:none}
+
+
+/* Compact savings panel with icons aligned beside the text. */
+#bbaya-concept .promo{max-width:1180px;padding:16px 22px;gap:22px}
+#bbaya-concept .bundle-column{display:grid;grid-template-columns:64px minmax(0,1fr);column-gap:16px;row-gap:0;align-content:center;text-align:left;padding:4px 12px}
+#bbaya-concept .bundle-column .bundle-art{grid-column:1;grid-row:1 / span 4;align-self:center;margin:0;width:64px;height:64px}
+#bbaya-concept .bundle-column>.eyebrow,#bbaya-concept .bundle-column>h2,#bbaya-concept .bundle-column>p:not(.eyebrow),#bbaya-concept .bundle-column>.offer-detail-link{grid-column:2}
+#bbaya-concept .shipping-column{flex-direction:row;align-items:center;gap:16px;text-align:left;padding:4px 12px 4px 22px}
+#bbaya-concept .shipping-column>img{margin:0;width:64px;height:64px}
+#bbaya-concept .promo h2,#bbaya-concept .promo h3{font-size:26px;margin:5px 0 8px}
+#bbaya-concept .promo p:not(.eyebrow){max-width:420px;margin:5px 0;line-height:1.45}
+#bbaya-concept .promo .eyebrow{margin:0}
+@media(max-width:700px){#bbaya-concept .promo{margin:10px 20px 28px;padding:16px;gap:16px}#bbaya-concept .shipping-column{padding:16px 12px 4px;border-left:0;border-top:1px solid #8f836f60}}
+@media(max-width:420px){#bbaya-concept .bundle-column{grid-template-columns:48px minmax(0,1fr);column-gap:12px;padding-inline:0}#bbaya-concept .bundle-column .bundle-art,#bbaya-concept .shipping-column>img{width:48px;height:48px}#bbaya-concept .shipping-column{padding-inline:0;gap:12px}#bbaya-concept .promo h2,#bbaya-concept .promo h3{font-size:23px}}
+
+/* Toolkit homepage proof and layered real software screens. */
+#bbaya-concept .software .program-heading .program-icon{width:144px;height:96px;object-fit:contain;padding:0;border:0;background:transparent;border-radius:8px}
+#bbaya-concept .software .toolkit-proof{border-left:3px solid var(--bb-accent);padding-left:18px}
+#bbaya-concept .software .toolkit-proof strong{color:#fff}
+#bbaya-concept .toolkit-home-visual{min-width:0}
+#bbaya-concept .toolkit-shot-stack{position:relative;height:470px;max-width:680px;margin:auto}
+#bbaya-concept .toolkit-shot{position:absolute;display:block;width:83%;border:1px solid #4b677a;border-radius:12px;overflow:hidden;box-shadow:0 15px 35px #0008;background:#07111c;transition:transform .2s ease}
+#bbaya-concept .toolkit-shot img{display:block;width:100%;height:auto}
+#bbaya-concept .toolkit-shot span{display:block;padding:8px 12px;color:#ff9a4a;font:700 12px Arial,sans-serif}
+#bbaya-concept .shot-control{top:0;left:0;transform:rotate(-4deg);z-index:1}
+#bbaya-concept .shot-draft{top:90px;right:0;transform:rotate(3deg);z-index:2}
+#bbaya-concept .shot-posting{top:180px;left:5%;transform:rotate(-1deg);z-index:3}
+#bbaya-concept .toolkit-shot:hover,#bbaya-concept .toolkit-shot:focus-visible{z-index:4;transform:rotate(0deg);outline:2px solid var(--bb-accent)}
+@media(max-width:1100px){#bbaya-concept .software-intro{grid-template-columns:1fr;gap:30px}#bbaya-concept .toolkit-shot-stack{height:540px}}
+@media(max-width:600px){#bbaya-concept .toolkit-shot-stack{height:auto;display:grid;gap:16px}#bbaya-concept .toolkit-shot{position:relative;inset:auto;width:100%;transform:none}#bbaya-concept .software .program-heading .program-icon{width:110px;height:74px}}
+
+#bbaya-concept .other .iconlab-highlight{color:var(--bb-accent);font-weight:700}
+
+#bbaya-concept .other .tools-red-highlight{color:var(--bb-accent)}
