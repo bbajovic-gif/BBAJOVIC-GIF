@@ -3216,7 +3216,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Documentary depicting the lives of child prostitutes in the red light district of Songachi, Calcutta. Director Zana Briski went to photograph the prostitutes when she met and became friends with their children. Briski began giving photography lessons to the children and became aware that their photography might be a way for them to lead better lives.",
-      "genres": "Biography | Documentary",
+      "genres": "Documentary",
       "director": "Zana Briski | Ross Kauffman",
       "runtime": "85",
       "regions": "Region 1",
@@ -3272,6 +3272,18 @@
         {
           "label": "Subtitles",
           "value": "French | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Documentary depicting the lives of child prostitutes in the red light district of Songachi, Calcutta. Director Zana Briski went to photograph the prostitutes when she met and became friends with their children. Briski began giving photography lessons to the children and became aware that their photography might be a way for them to lead better lives."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Zana Briski | Ross Kauffman"
         }
       ],
       "show_box_contents": true,
@@ -6656,9 +6668,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A group of six tourists looking to go off the beaten path, hire an 'extreme tour guide' who, ignoring warnings, takes them into the city of Pripyat, the former home to the workers of the Chernobyl nuclear reactor, but now a deserted town since the disaster more than 25 years earlier. After a brief exploration of the abandoned city, the group members find themselves stranded, only to discover that they are not alone.",
-      "genres": "Horror | Mystery | Thriller",
+      "genres": "Horror | Thriller",
       "director": "Bradley Parker",
-      "runtime": "86",
+      "runtime": "88",
       "regions": "Region 1 | Region A",
       "subtitles": "",
       "audio": "",
@@ -6696,6 +6708,18 @@
         {
           "label": "Regions",
           "value": "Region 1 | Region A"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A group of six tourists looking to go off the beaten path, hire an 'extreme tour guide' who, ignoring warnings, takes them into the city of Pripyat, the former home to the workers of the Chernobyl nuclear reactor, but now a deserted town since the disaster more than 25 years earlier. After a brief exploration of the abandoned city, the group members find themselves stranded, only to discover that they are not alone."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Horror | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Bradley Parker"
         }
       ],
       "show_box_contents": true,
@@ -8516,7 +8540,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-      "genres": "Adventure | Fantasy",
+      "genres": "Fantasy | Adventure | Action",
       "director": "Peter Jackson",
       "runtime": "161",
       "regions": "Region 1 | Region A",
@@ -8572,6 +8596,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Fantasy | Adventure | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peter Jackson"
         }
       ],
       "show_box_contents": true,
@@ -8595,7 +8631,7 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+      "overview": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
       "genres": "Drama",
       "director": "Asghar Farhadi",
       "runtime": "123",
@@ -8632,6 +8668,18 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Asghar Farhadi"
         }
       ],
       "show_box_contents": true,
@@ -8809,7 +8857,7 @@
       "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
       "genres": "Drama | Romance",
       "director": "Joe Wright",
-      "runtime": "129",
+      "runtime": "128",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | English (SDH) | French | Spanish",
       "audio": "DTS 5.1 [French] | Dolby Digital Stereo [English] | DTS [English] | DTS-HD HR 5.1 [English]",
@@ -8863,6 +8911,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joe Wright"
         }
       ],
       "show_box_contents": true,
@@ -8954,10 +9014,10 @@
       "section": "music",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Live concert from Lindsey Buckingham in LA.",
+      "overview": "Filmed at an exclusive show at the Saban Theatre in Beverly Hills in April 2011. \"Songs from the Small Machine\" captures Lindsey Buckingham showcasing tracks from his new studio album \"Seeds We Sow\", songs from across his solo career and Fleetwood Mac classics. His distinctive guitar picking style and instant recognizable voice are joined to his dynamic on stage presence to deliver a show that brings the audience to their feet and leaves them falling for more.",
       "genres": "Music",
-      "director": "Barry Ehrmann",
-      "runtime": "142",
+      "director": "James Yukich",
+      "runtime": "108",
       "regions": "Region 1",
       "subtitles": "English | French | German | Spanish",
       "audio": "Dolby Digital 5.1 [English] | PCM Stereo [English] | DTS [English] | Dolby Digital 4.0 [English] | Stereo [English] | DTS-HD Master Audio 5.1 [English]",
@@ -9011,6 +9071,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | German | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Filmed at an exclusive show at the Saban Theatre in Beverly Hills in April 2011. \"Songs from the Small Machine\" captures Lindsey Buckingham showcasing tracks from his new studio album \"Seeds We Sow\", songs from across his solo career and Fleetwood Mac classics. His distinctive guitar picking style and instant recognizable voice are joined to his dynamic on stage presence to deliver a show that brings the audience to their feet and leaves them falling for more."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "James Yukich"
         }
       ],
       "show_box_contents": true,
@@ -9035,7 +9107,7 @@
       "box_contents": [],
       "overview": "",
       "genres": "Documentary | Music",
-      "director": "",
+      "director": "Christopher Sumpton",
       "runtime": "0",
       "regions": "",
       "subtitles": "",
@@ -9062,6 +9134,14 @@
         {
           "label": "Audio Tracks",
           "value": "Stereo [English]"
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary | Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Christopher Sumpton"
         }
       ],
       "show_box_contents": true,
@@ -9084,10 +9164,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "In the 1840s, Cranford is ruled by the ladies. They adore good gossip; and romance and change is in the air, as the unwelcome grasp of the Industrial Revolution rapidly approaches their beloved rural market-town.",
+      "overview": "A rich and comic drama about the people of Cranford, a small Cheshire town on the cusp of change in the 1840s. Adapted from the novels by Elizabeth Gaskell.",
       "genres": "Drama",
-      "director": "Simon Curtis | Steve Hudson",
-      "runtime": "293",
+      "director": "Steve Hudson",
+      "runtime": "60",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned)",
       "audio": "DTS-HD HR 5.1 [English] | DTS-HD Master Audio 5.1 [English]",
@@ -9137,6 +9217,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A rich and comic drama about the people of Cranford, a small Cheshire town on the cusp of change in the 1840s. Adapted from the novels by Elizabeth Gaskell."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Steve Hudson"
         }
       ],
       "show_box_contents": true,
@@ -9645,9 +9737,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A young woman's penchant for sensational Gothic novels leads to misunderstandings in the matters of the heart.",
-      "genres": "Drama | Romance",
+      "genres": "Romance | Drama | TV Movie",
       "director": "Jon Jones",
-      "runtime": "84",
+      "runtime": "93",
       "regions": "Region 1",
       "subtitles": "English (SDH)",
       "audio": "DTS-HD Master Audio Stereo [English]",
@@ -9697,6 +9789,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A young woman's penchant for sensational Gothic novels leads to misunderstandings in the matters of the heart."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Romance | Drama | TV Movie"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jon Jones"
         }
       ],
       "show_box_contents": true,
@@ -9721,9 +9825,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Tony Bennett and Lady Gaga: Cheek to Cheek Live! is an American concert television special featuring live performances by Tony Bennett and Lady Gaga in support of their collaborative studio album, Cheek to Cheek, released in September 2014. It was held at the Rose Theater of Lincoln Center for the Performing Arts in July following the announcement of the album's release, and was aired on PBS on October 24, 2014, as part of the network's Great Performances series. The concert was watched by an audience consisting of invited guests and students from New York schools. Bennett and Gaga were joined on stage by 39-piece orchestra and jazz musicians associated with both artists.",
-      "genres": "Music",
+      "genres": "Music | TV Movie",
       "director": "David Horn",
-      "runtime": "55",
+      "runtime": "74",
       "regions": "Region Free",
       "subtitles": "",
       "audio": "DTS [English] | Dolby TrueHD 5.1 [English] | DTS-HD Master Audio 5.1 [English] | LPCM Stereo [English]",
@@ -9769,6 +9873,18 @@
         {
           "label": "Audio Tracks",
           "value": "DTS [English] | Dolby TrueHD 5.1 [English] | DTS-HD Master Audio 5.1 [English] | LPCM Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Tony Bennett and Lady Gaga: Cheek to Cheek Live! is an American concert television special featuring live performances by Tony Bennett and Lady Gaga in support of their collaborative studio album, Cheek to Cheek, released in September 2014. It was held at the Rose Theater of Lincoln Center for the Performing Arts in July following the announcement of the album's release, and was aired on PBS on October 24, 2014, as part of the network's Great Performances series. The concert was watched by an audience consisting of invited guests and students from New York schools. Bennett and Gaga were joined on stage by 39-piece orchestra and jazz musicians associated with both artists."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Music | TV Movie"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "David Horn"
         }
       ],
       "show_box_contents": true,
@@ -9795,7 +9911,7 @@
       "overview": "A young Englishman marries a glamorous American. When he brings her home to meet the parents, she arrives like a blast from the future - blowing their entrenched British stuffiness out the window.",
       "genres": "Comedy | Romance",
       "director": "Stephan Elliott",
-      "runtime": "97",
+      "runtime": "93",
       "regions": "Region 1 | Region A",
       "subtitles": "English | English (SDH)",
       "audio": "Dolby Digital Mono [English] | Stereo [English] | Dolby TrueHD 5.1 [English] | Dolby TrueHD 5.1 [German] | Dolby TrueHD 5.1 [Portuguese]",
@@ -9845,6 +9961,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (SDH)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A young Englishman marries a glamorous American. When he brings her home to meet the parents, she arrives like a blast from the future - blowing their entrenched British stuffiness out the window."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Stephan Elliott"
         }
       ],
       "show_box_contents": true,
@@ -9921,6 +10049,18 @@
         {
           "label": "Subtitles",
           "value": "Arabic | Chinese | French | Japanese | Korean | Portuguese | Spanish | Thai"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The timeless tale of King Arthur and the legend of Camelot are retold in this passionate period drama. Arthur is reluctant to hand the crown to Lancelot, and Guinevere is torn between her loyalty to her husband and her growing love for his rival. But Lancelot must balance his loyalty to the throne with the rewards of true love."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure | Drama | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jerry Zucker"
         }
       ],
       "show_box_contents": true,
@@ -9945,7 +10085,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife.",
-      "genres": "Action | Crime | Drama | Mystery | Thriller",
+      "genres": "Crime | Drama | Mystery | Thriller",
       "director": "Scott Frank",
       "runtime": "114",
       "regions": "Region A",
@@ -10001,6 +10141,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French (SDH)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Crime | Drama | Mystery | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Scott Frank"
         }
       ],
       "show_box_contents": true,
@@ -10088,7 +10240,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
-      "genres": "Action | Adventure | Thriller",
+      "genres": "Adventure | Action | Thriller",
       "director": "John Woo",
       "runtime": "123",
       "regions": "Region 1",
@@ -10144,14 +10296,27 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "John Woo"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000082-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000082-back.jpg",
       "primary_image": "assets/video-covers/video-br-000082-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000082-front.jpg"
+        "assets/video-covers/video-br-000082-front.jpg",
+        "assets/video-covers/video-br-000082-back.jpg"
       ]
     },
     {
@@ -10167,7 +10332,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
-      "genres": "Adventure | Crime | Drama",
+      "genres": "Drama | Crime | Adventure",
       "director": "Ridley Scott",
       "runtime": "130",
       "regions": "Region A",
@@ -10219,14 +10384,27 @@
         {
           "label": "Subtitles",
           "value": "Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Crime | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Ridley Scott"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000083-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000083-back.jpg",
       "primary_image": "assets/video-covers/video-br-000083-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000083-front.jpg"
+        "assets/video-covers/video-br-000083-front.jpg",
+        "assets/video-covers/video-br-000083-back.jpg"
       ]
     },
     {
@@ -10244,7 +10422,7 @@
       "overview": "Fighter Pilot: Operation Red Flag follows American F-15 Eagle pilot John Stratton as he trains with some of the world’s best pilots. The movie depicts Stratton’s progression through the challenging and dangerous exercises of Operation Red Flag, the international training program for air forces of allied countries.",
       "genres": "Documentary",
       "director": "Stephen Low",
-      "runtime": "40",
+      "runtime": "48",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "DTS-HD HR 5.1 [English]",
@@ -10290,6 +10468,18 @@
         {
           "label": "Audio Tracks",
           "value": "DTS-HD HR 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Fighter Pilot: Operation Red Flag follows American F-15 Eagle pilot John Stratton as he trains with some of the world’s best pilots. The movie depicts Stratton’s progression through the challenging and dangerous exercises of Operation Red Flag, the international training program for air forces of allied countries."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Stephen Low"
         }
       ],
       "show_box_contents": true,
@@ -10392,8 +10582,8 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Eccentric British painter J.M.W. Turner lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.",
-      "genres": "Biography | Drama | History",
+      "overview": "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him.",
+      "genres": "History | Drama",
       "director": "Mike Leigh",
       "runtime": "150",
       "regions": "Region A | Region B | Region C",
@@ -10437,6 +10627,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "History | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Mike Leigh"
         }
       ],
       "show_box_contents": true,
@@ -10460,7 +10662,7 @@
       "section": "music",
       "kind": "Film",
       "box_contents": [],
-      "overview": "This concert Blu-ray sees Phil Collins take his superb new album Going Back into the live arena. Filmed in June of this year in the intimate surroundings of New York s famous Roseland Ballroom, this is a real chance to get up close and personal as Phil Collins faithfully recreates the soul and Motown classics that he loved as a teenager. His band includes three of Motown s original backing band The Funk Brothers: Bob Babbitt on bass and guitarists Eddie Willis and Ray Monette, as well as two stalwarts of Genesis live shows: Chester Thompson on drums and Darryl Stuermer on guitars. Phil Collins performs a number of Motown covers during the course of this high-energy show performed at the Roseland Ballroom in New York City. The setlist of over a dozen tunes includes \"Ain't Too Proud to Beg,\" \"Papa Was a Rollin' Stone,\"and \"Going to a Go-Go.\"",
+      "overview": "This concert Blu-ray sees Phil Collins take his superb new album Going Back into the live arena. Filmed in June of this year in the intimate surroundings of New York s famous Roseland Ballroom, this is a real chance to get up close and personal as Phil Collins faithfully recreates the soul and Motown classics that he loved as a teenager. His band includes three of Motown s original backing band The Funk Brothers: Bob Babbitt on bass and guitarists Eddie Willis and Ray Monette, as well as two stalwarts of Genesis live shows: Chester Thompson on drums and Darryl Stuermer on guitars.  Phil Collins performs a number of Motown covers during the course of this high-energy show performed at the Roseland Ballroom in New York City. The setlist of over a dozen tunes includes \"Ain't Too Proud to Beg,\" \"Papa Was a Rollin' Stone,\"and \"Going to a Go-Go.\"",
       "genres": "Music",
       "director": "Joe Thomas",
       "runtime": "98",
@@ -10513,6 +10715,18 @@
         {
           "label": "Audio Tracks",
           "value": "DTS 5.1 [English] | DTS [English] | Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "This concert Blu-ray sees Phil Collins take his superb new album Going Back into the live arena. Filmed in June of this year in the intimate surroundings of New York s famous Roseland Ballroom, this is a real chance to get up close and personal as Phil Collins faithfully recreates the soul and Motown classics that he loved as a teenager. His band includes three of Motown s original backing band The Funk Brothers: Bob Babbitt on bass and guitarists Eddie Willis and Ray Monette, as well as two stalwarts of Genesis live shows: Chester Thompson on drums and Darryl Stuermer on guitars.  Phil Collins performs a number of Motown covers during the course of this high-energy show performed at the Roseland Ballroom in New York City. The setlist of over a dozen tunes includes \"Ain't Too Proud to Beg,\" \"Papa Was a Rollin' Stone,\"and \"Going to a Go-Go.\""
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joe Thomas"
         }
       ],
       "show_box_contents": true,
@@ -10573,14 +10787,27 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In a futuristic world that has embraced ape slavery, a chimpanzee named Caesar resurfaces after almost twenty years of hiding from the authorities, and prepares for a revolt against humanity."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "J. Lee Thompson"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000087-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000087-back.jpg",
       "primary_image": "assets/video-covers/video-br-000087-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000087-front.jpg"
+        "assets/video-covers/video-br-000087-front.jpg",
+        "assets/video-covers/video-br-000087-back.jpg"
       ]
     },
     {
@@ -10596,7 +10823,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.",
-      "genres": "Action | Adventure | Science Fiction | Thriller",
+      "genres": "Thriller | Science Fiction | Action | Adventure",
       "director": "Tim Burton",
       "runtime": "120",
       "regions": "Region A",
@@ -10648,6 +10875,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Thriller | Science Fiction | Action | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Tim Burton"
         }
       ],
       "show_box_contents": true,
@@ -10672,7 +10911,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman.",
-      "genres": "Biography | Drama | Romance | War",
+      "genres": "Drama | History | Romance",
       "director": "John Maybury",
       "runtime": "110",
       "regions": "",
@@ -10712,14 +10951,27 @@
         {
           "label": "Audio Tracks",
           "value": "DTS-HD HR 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | History | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "John Maybury"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000089-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000089-back.jpg",
       "primary_image": "assets/video-covers/video-br-000089-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000089-front.jpg"
+        "assets/video-covers/video-br-000089-front.jpg",
+        "assets/video-covers/video-br-000089-back.jpg"
       ]
     },
     {
@@ -10735,7 +10987,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-      "genres": "Biography | Comedy | Crime | Drama",
+      "genres": "Crime | Drama | Comedy",
       "director": "Martin Scorsese",
       "runtime": "180",
       "regions": "Region 1 | Region A",
@@ -10787,6 +11039,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Crime | Drama | Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Martin Scorsese"
         }
       ],
       "show_box_contents": true,
@@ -10810,10 +11074,10 @@
       "section": "music",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Paul Simon returns to South Africa to explore the incredible journey of his historic Graceland album, including the political backlash he received for allegedly breaking the UN cultural boycott of South Africa designed to end the Apartheid regime. On the 25th anniversary of Paul Simon's GRACELAND, acclaimed documentary filmmaker Joe Berlinger offers a glimpse at the controversy surrounding the decision to record the album in South Africa despite a UN boycott of the nation, which was aimed at ending apartheid. In the run-up to an eagerly anticipated reunion concert, Simon, Quincy Jones, Peter Gabriel, David Byrne, Harry Belafonte, Paul McCartney and others reflect on the decision to record with local artists in South Africa, and the cultural impact of the album that delivered such hits as \"I Know What I Know\" and \"You Can Call Me Al.\"",
-      "genres": "Biography | Documentary | History | Music",
+      "overview": "Paul Simon returns to South Africa to explore the incredible journey of his historic Graceland album, including the political backlash he received for allegedly breaking the UN cultural boycott of South Africa designed to end the Apartheid regime.  On the 25th anniversary of Paul Simon's GRACELAND, acclaimed documentary filmmaker Joe Berlinger offers a glimpse at the controversy surrounding the decision to record the album in South Africa despite a UN boycott of the nation, which was aimed at ending apartheid. In the run-up to an eagerly anticipated reunion concert, Simon, Quincy Jones, Peter Gabriel, David Byrne, Harry Belafonte, Paul McCartney and others reflect on the decision to record with local artists in South Africa, and the cultural impact of the album that delivered such hits as \"I Know What I Know\" and \"You Can Call Me Al.\"",
+      "genres": "Music | Documentary | History",
       "director": "Joe Berlinger",
-      "runtime": "108",
+      "runtime": "102",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "Dolby Digital 5.1 [English]",
@@ -10855,6 +11119,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Paul Simon returns to South Africa to explore the incredible journey of his historic Graceland album, including the political backlash he received for allegedly breaking the UN cultural boycott of South Africa designed to end the Apartheid regime.  On the 25th anniversary of Paul Simon's GRACELAND, acclaimed documentary filmmaker Joe Berlinger offers a glimpse at the controversy surrounding the decision to record the album in South Africa despite a UN boycott of the nation, which was aimed at ending apartheid. In the run-up to an eagerly anticipated reunion concert, Simon, Quincy Jones, Peter Gabriel, David Byrne, Harry Belafonte, Paul McCartney and others reflect on the decision to record with local artists in South Africa, and the cultural impact of the album that delivered such hits as \"I Know What I Know\" and \"You Can Call Me Al.\""
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Music | Documentary | History"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joe Berlinger"
         }
       ],
       "show_box_contents": true,
@@ -10879,7 +11155,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "As the global economy teeters on the brink of disaster, a young Wall Street trader partners with disgraced former Wall Street corporate raider Gordon Gekko on a two tiered mission: To alert the financial community to the coming doom, and to find out who was responsible for the death of the young trader's mentor.",
-      "genres": "Drama",
+      "genres": "Drama | Crime",
       "director": "Oliver Stone",
       "runtime": "133",
       "regions": "",
@@ -10915,14 +11191,27 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "As the global economy teeters on the brink of disaster, a young Wall Street trader partners with disgraced former Wall Street corporate raider Gordon Gekko on a two tiered mission: To alert the financial community to the coming doom, and to find out who was responsible for the death of the young trader's mentor."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Crime"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Oliver Stone"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000092-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000092-back.jpg",
       "primary_image": "assets/video-covers/video-br-000092-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000092-front.jpg"
+        "assets/video-covers/video-br-000092-front.jpg",
+        "assets/video-covers/video-br-000092-back.jpg"
       ]
     },
     {
@@ -11731,7 +12020,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Take a technological thrill ride The Magic of Flight takes you on a technological thrill ride faster, higher and wider than modern science or even your imagination! Relive the first flight of the Wright Brothers, then soar with the Blue Angels as they defy the laws of gravity. Narrated by Tom Selleck.",
-      "genres": "Documentary",
+      "genres": "Documentary | History",
       "director": "Greg MacGillivray",
       "runtime": "40",
       "regions": "Region 1",
@@ -11783,6 +12072,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English] | DTS 5.1 [English] | DTS [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Take a technological thrill ride The Magic of Flight takes you on a technological thrill ride faster, higher and wider than modern science or even your imagination! Relive the first flight of the Wright Brothers, then soar with the Blue Angels as they defy the laws of gravity. Narrated by Tom Selleck."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary | History"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Greg MacGillivray"
         }
       ],
       "show_box_contents": true,
@@ -11802,13 +12103,13 @@
       "year": "1961",
       "format": "DVD",
       "edition": "Special Edition",
-      "section": "video",
+      "section": "music",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Nicky and his friends find that their youth club is in danger of being flattened to make way for a new office block unless they can come up with £1500 to pay the new owner, the ruthless property tycoon Hamilton Black. To help raise the cash, Nicky records a song and his friends broadcast it via a pirate radio station, touting him as \"The Mystery Singer\" - the plan works and interest in their up and coming show is heightened by this new but unknown heart-throb. But Nicky has an even bigger secret and one that he cannot share.",
-      "genres": "Musical",
+      "overview": "Nicky and his friends find that their youth club is in danger of being flattened to make way for a new office block unless they can come up with £1500 to pay the new owner, the ruthless property tycoon Hamilton Black. To help raise the cash, Nicky records a song and his friends broadcast it via a pirate radio station, touting him as \"The Mystery Singer\" - the plan works and interest in their up and coming show is heightened by this new but unknown heart-throb. But Nicky has an even bigger secret and one that he cannot share, even with his girlfriend Toni... Hamilton Black is his father.",
+      "genres": "Comedy | Music",
       "director": "Sidney J. Furie",
-      "runtime": "0",
+      "runtime": "108",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "Dolby Digital Mono [English] | Mono [English]",
@@ -11854,6 +12155,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital Mono [English] | Mono [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Nicky and his friends find that their youth club is in danger of being flattened to make way for a new office block unless they can come up with £1500 to pay the new owner, the ruthless property tycoon Hamilton Black. To help raise the cash, Nicky records a song and his friends broadcast it via a pirate radio station, touting him as \"The Mystery Singer\" - the plan works and interest in their up and coming show is heightened by this new but unknown heart-throb. But Nicky has an even bigger secret and one that he cannot share, even with his girlfriend Toni... Hamilton Black is his father."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Sidney J. Furie"
         }
       ],
       "show_box_contents": true,
@@ -11877,7 +12190,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Cynical British journalist Fowler falls in love with a young Vietnamese woman but is dismayed when a naïve U.S. official also begins vying for her attention. In retaliation, Fowler informs the communists that the American is selling arms to their enemy.",
-      "genres": "Drama | Romance | Thriller | War",
+      "genres": "Romance | Thriller | Drama | War",
       "director": "Phillip Noyce",
       "runtime": "101",
       "regions": "",
@@ -11913,6 +12226,18 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Cynical British journalist Fowler falls in love with a young Vietnamese woman but is dismayed when a naïve U.S. official also begins vying for her attention. In retaliation, Fowler informs the communists that the American is selling arms to their enemy."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Romance | Thriller | Drama | War"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Phillip Noyce"
         }
       ],
       "show_box_contents": true,
@@ -11936,7 +12261,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When the president of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. The change in political leaders sparks paranoia among American CIA officials, so CIA director Bill Cabot recruits a young analyst to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a U.S. city, and America is quick to blame the Russians.",
-      "genres": "Action | Drama | Thriller | War",
+      "genres": "Thriller | Action | Drama",
       "director": "Phil Alden Robinson",
       "runtime": "124",
       "regions": "Region 1",
@@ -11992,6 +12317,18 @@
         {
           "label": "Subtitles",
           "value": "English"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When the president of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. The change in political leaders sparks paranoia among American CIA officials, so CIA director Bill Cabot recruits a young analyst to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a U.S. city, and America is quick to blame the Russians."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Thriller | Action | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Phil Alden Robinson"
         }
       ],
       "show_box_contents": true,
@@ -12017,7 +12354,7 @@
       "box_contents": [],
       "overview": "Renowned vocalist Sarah Brightman performs more than 20 songs before a packed house at Las Vegas' MGM Grand Arena in this concert film from Angel Records. The set list includes such tunes as \"Who Wants to Live Forever,\" \"Stranger in Paradise,\" \"What a Wonderful World,\" \"A Whiter Shade of Pale,\" and \"Wishing You Were Somehow Here Again.\"",
       "genres": "Music",
-      "director": "Bruce Gowers | David Mallet",
+      "director": "David Mallet",
       "runtime": "110",
       "regions": "Region 1",
       "subtitles": "",
@@ -12068,6 +12405,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English] | DTS 5.1 [English] | Dolby Digital Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Renowned vocalist Sarah Brightman performs more than 20 songs before a packed house at Las Vegas' MGM Grand Arena in this concert film from Angel Records. The set list includes such tunes as \"Who Wants to Live Forever,\" \"Stranger in Paradise,\" \"What a Wonderful World,\" \"A Whiter Shade of Pale,\" and \"Wishing You Were Somehow Here Again.\""
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "David Mallet"
         }
       ],
       "show_box_contents": true,
@@ -12092,7 +12441,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
-      "genres": "Biography | Crime | Drama",
+      "genres": "Drama | Crime",
       "director": "Ridley Scott",
       "runtime": "157",
       "regions": "Region 1",
@@ -12148,6 +12497,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Crime"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Ridley Scott"
         }
       ],
       "show_box_contents": true,
@@ -12173,7 +12534,7 @@
       "box_contents": [],
       "overview": "When a childless couple—an ex-con and an ex-cop—take one of a wealthy family’s quintuplets to raise as their own, their lives grow more complicated than anticipated.",
       "genres": "Comedy | Crime",
-      "director": "Joel Coen | Ethan Coen",
+      "director": "Joel Coen",
       "runtime": "94",
       "regions": "Region 1",
       "subtitles": "English | Spanish",
@@ -12224,6 +12585,18 @@
         {
           "label": "Subtitles",
           "value": "English | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When a childless couple—an ex-con and an ex-cop—take one of a wealthy family’s quintuplets to raise as their own, their lives grow more complicated than anticipated."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Crime"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joel Coen"
         }
       ],
       "show_box_contents": true,
@@ -12247,10 +12620,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.\n\nHank and Dean Venture are relatively identical twins, only born six minutes apart, who live for the thrill of adventure. Their dated vocabulary and high-pitched voices are intentionally annoying, especially to their father, Doctor Venture, a boy genius turned mediocre scientist who hates everything about his life.\n\nIn the midst of this conflict is Brock Samson, a man of swift neck-breaking action. Preferring to resort to his brawn instead of his brain, Brock is simple but effective, and does a better job at taking care of the kids than Doctor Venture, as long as they leave his treasured Dodge Charger alone.\n\nThe Venture Brothers is a take off of Johnny Quest and the Hardy Boys.",
-      "genres": "Action | Adventure | Animation | Comedy | Fantasy | Science Fiction",
-      "director": "Christopher McCulloch",
-      "runtime": "286",
+      "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+      "genres": "Animation | Comedy | Action & Adventure | Sci-Fi & Fantasy",
+      "director": "Doc Hammer | Christopher McCulloch",
+      "runtime": "22",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital Stereo [English] | Stereo [English]",
@@ -12300,14 +12673,27 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Animation | Comedy | Action & Adventure | Sci-Fi & Fantasy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Doc Hammer | Christopher McCulloch"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000052-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000052-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000052-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000052-front.jpg"
+        "assets/video-covers/video-dvd-000052-front.jpg",
+        "assets/video-covers/video-dvd-000052-back.jpg"
       ]
     },
     {
@@ -12322,10 +12708,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.\n\nHank and Dean Venture are relatively identical twins, only born six minutes apart, who live for the thrill of adventure. Their dated vocabulary and high-pitched voices are intentionally annoying, especially to their father, Doctor Venture, a boy genius turned mediocre scientist who hates everything about his life.\n\nIn the midst of this conflict is Brock Samson, a man of swift neck-breaking action. Preferring to resort to his brawn instead of his brain, Brock is simple but effective, and does a better job at taking care of the kids than Doctor Venture, as long as they leave his treasured Dodge Charger alone.\n\nThe Venture Brothers is a take off of Johnny Quest and the Hardy Boys.",
-      "genres": "Action | Adventure | Animation | Comedy | Fantasy | Science Fiction",
-      "director": "Christopher McCulloch | Ki-Yong Bai",
-      "runtime": "319",
+      "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+      "genres": "Animation | Comedy | Action & Adventure | Sci-Fi & Fantasy",
+      "director": "Doc Hammer | Christopher McCulloch",
+      "runtime": "22",
       "regions": "Region 1",
       "subtitles": "English | French | Spanish",
       "audio": "Dolby Digital Stereo [English] | Stereo [English]",
@@ -12375,6 +12761,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Animation | Comedy | Action & Adventure | Sci-Fi & Fantasy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Doc Hammer | Christopher McCulloch"
         }
       ],
       "show_box_contents": true,
@@ -12455,6 +12853,18 @@
         {
           "label": "Subtitles",
           "value": "French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Mystery | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "M. Night Shyamalan"
         }
       ],
       "show_box_contents": true,
@@ -12479,7 +12889,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
-      "genres": "Drama | War",
+      "genres": "Drama | War | Action",
       "director": "Oliver Stone",
       "runtime": "120",
       "regions": "Region 1",
@@ -12523,6 +12933,18 @@
         {
           "label": "Regions",
           "value": "Region 1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | War | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Oliver Stone"
         }
       ],
       "show_box_contents": true,
@@ -12546,7 +12968,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
-      "genres": "Action | Drama | Science Fiction | Thriller",
+      "genres": "Action | Science Fiction | Thriller",
       "director": "Kurt Wimmer",
       "runtime": "107",
       "regions": "Region 1",
@@ -12594,6 +13016,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Science Fiction | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Kurt Wimmer"
         }
       ],
       "show_box_contents": true,
@@ -12618,9 +13052,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
-      "genres": "Comedy | Crime | Drama | Mystery | Thriller",
+      "genres": "Comedy | Crime | Drama",
       "director": "Phil Alden Robinson",
-      "runtime": "126",
+      "runtime": "125",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital Stereo [Spanish] | Dolby Digital Surround [English] | Dolby Digital Surround [French] | Dolby Digital Surround [Spanish]",
@@ -12674,6 +13108,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Crime | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Phil Alden Robinson"
         }
       ],
       "show_box_contents": true,
@@ -12700,7 +13146,7 @@
       "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
       "genres": "Comedy | Drama | Thriller",
       "director": "Joel Coen | Ethan Coen",
-      "runtime": "116",
+      "runtime": "117",
       "regions": "Region 1",
       "subtitles": "English | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Stereo [English]",
@@ -12750,6 +13196,18 @@
         {
           "label": "Subtitles",
           "value": "English | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Drama | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joel Coen | Ethan Coen"
         }
       ],
       "show_box_contents": true,
@@ -12822,6 +13280,18 @@
         {
           "label": "Regions",
           "value": "Region 1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Kevin Smith"
         }
       ],
       "show_box_contents": true,
@@ -12846,9 +13316,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.",
-      "genres": "Action | Fantasy | Thriller",
+      "genres": "Fantasy | Action | Thriller",
       "director": "Len Wiseman",
-      "runtime": "121",
+      "runtime": "122",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French]",
@@ -12902,6 +13372,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Fantasy | Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Len Wiseman"
         }
       ],
       "show_box_contents": true,
@@ -12925,9 +13407,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Alec Berg | David Mandel | Larry Charles",
+      "director": "Larry David",
       "runtime": "303",
       "regions": "Region 1",
       "subtitles": "",
@@ -12970,14 +13452,27 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000061-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000061-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000061-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000061-front.jpg"
+        "assets/video-covers/video-dvd-000061-front.jpg",
+        "assets/video-covers/video-dvd-000061-back.jpg"
       ]
     },
     {
@@ -12992,9 +13487,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Larry Charles | Alec Berg | Jeff Schaffer",
+      "director": "Larry David",
       "runtime": "315",
       "regions": "Region 1",
       "subtitles": "English | French | Spanish",
@@ -13045,6 +13540,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
@@ -13068,9 +13575,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Alec Berg | David Mandel | Larry Charles",
+      "director": "Larry David",
       "runtime": "305",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
@@ -13121,6 +13628,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
@@ -13144,9 +13663,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Robert B. Weide | Larry Charles | Bryan Gordon",
+      "director": "Larry David",
       "runtime": "318",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
@@ -13197,6 +13716,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
@@ -13220,9 +13751,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Robert B. Weide | Larry Charles | Bryan Gordon",
+      "director": "Larry David",
       "runtime": "328",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
@@ -13273,14 +13804,27 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000065-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000065-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000065-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000065-front.jpg"
+        "assets/video-covers/video-dvd-000065-front.jpg",
+        "assets/video-covers/video-dvd-000065-back.jpg"
       ]
     },
     {
@@ -13295,9 +13839,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Robert B. Weide | Larry Charles | David Steinberg",
+      "director": "Larry David",
       "runtime": "298",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
@@ -13348,6 +13892,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
@@ -13371,9 +13927,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Robert B. Weide | Dean Parisot | Bryan Gordon",
+      "director": "Larry David",
       "runtime": "295",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
@@ -13424,6 +13980,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
@@ -13447,9 +14015,9 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Each half-hour episode of Curb Your Enthusiasm features semi-improvised footage of David (playing himself) at home, at work and around town, as he gets into predicaments with fictional and real-life personalities.\n\nCandid, unsparing and self-deprecating, Curb Your Enthusiasm brings the off-kilter comic vision of Larry David--co-creator and co-executive producer of one of the most lauded comedy series in TV history, Seinfeld--to HBO.",
+      "overview": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
       "genres": "Comedy",
-      "director": "Robert B. Weide | Bryan Gordon | Andy Ackerman",
+      "director": "Larry David",
       "runtime": "292",
       "regions": "Region 1",
       "subtitles": "English | French | Spanish",
@@ -13504,14 +14072,27 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Larry David"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000068-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000068-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000068-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000068-front.jpg"
+        "assets/video-covers/video-dvd-000068-front.jpg",
+        "assets/video-covers/video-dvd-000068-back.jpg"
       ]
     },
     {
@@ -13529,7 +14110,7 @@
       "overview": "These archetypal Southern Californians, who transmuted their experiences growing up in suburban Hawthorne into a potent teen iconography orbiting surfing, cars, and girls, tackle the underlying personal and cultural upheavals beneath their discography. Intelligently assembled with over 40 songs dispersed throughout, ENDLESS HARMONY works not just as a rockumentary but as an important historical document of American music.",
       "genres": "Documentary | Music",
       "director": "Alan Boyd",
-      "runtime": "141",
+      "runtime": "101",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Stereo [English]",
@@ -13575,6 +14156,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English] | Dolby Digital Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "These archetypal Southern Californians, who transmuted their experiences growing up in suburban Hawthorne into a potent teen iconography orbiting surfing, cars, and girls, tackle the underlying personal and cultural upheavals beneath their discography. Intelligently assembled with over 40 songs dispersed throughout, ENDLESS HARMONY works not just as a rockumentary but as an important historical document of American music."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary | Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Alan Boyd"
         }
       ],
       "show_box_contents": true,
@@ -13599,9 +14192,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "With high school a distant memory, Jim and Michelle are getting married — and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle — prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear.",
-      "genres": "Comedy",
+      "genres": "Comedy | Romance",
       "director": "Jesse Dylan",
-      "runtime": "96",
+      "runtime": "103",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 | Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital 5.1 [Spanish] | Dolby Digital Stereo [French] | Dolby Digital Surround [French]",
@@ -13655,6 +14248,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "With high school a distant memory, Jim and Michelle are getting married — and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle — prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jesse Dylan"
         }
       ],
       "show_box_contents": true,
@@ -13727,6 +14332,18 @@
         {
           "label": "Audio Tracks",
           "value": "Stereo"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "An FBI agent is suspicious of two master thieves, quietly enjoying their retirement near what may - or may not - be the biggest score of their careers."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Comedy | Crime | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Brett Ratner"
         }
       ],
       "show_box_contents": true,
@@ -13750,9 +14367,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
-      "genres": "Action | Biography | Drama | History | War",
+      "genres": "War | History | Action | Adventure | Drama | Romance",
       "director": "Oliver Stone",
-      "runtime": "175",
+      "runtime": "176",
       "regions": "Region 1 | Region Free",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English]",
@@ -13806,6 +14423,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "War | History | Action | Adventure | Drama | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Oliver Stone"
         }
       ],
       "show_box_contents": true,
@@ -13830,7 +14459,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
-      "genres": "Comedy",
+      "genres": "Comedy | Romance",
       "director": "Paul Weitz",
       "runtime": "95",
       "regions": "Region 1",
@@ -13886,6 +14515,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Paul Weitz"
         }
       ],
       "show_box_contents": true,
@@ -13910,9 +14551,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
-      "genres": "Comedy",
-      "director": "James B. Rogers",
-      "runtime": "108",
+      "genres": "Comedy | Romance",
+      "director": "J.B. Rogers",
+      "runtime": "111",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | French",
       "audio": "Dolby Digital 5.1 [English] | DTS 5.1 [English]",
@@ -13962,6 +14603,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "J.B. Rogers"
         }
       ],
       "show_box_contents": true,
@@ -13986,7 +14639,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Adventure | Action | Science Fiction",
       "director": "George Lucas",
       "runtime": "140",
       "regions": "Region 1",
@@ -14042,6 +14695,18 @@
         {
           "label": "Subtitles",
           "value": "Danish (Close Captioned) | English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "George Lucas"
         }
       ],
       "show_box_contents": true,
@@ -14065,10 +14730,10 @@
       "section": "music",
       "kind": "TV",
       "box_contents": [],
-      "overview": "\"Chappelle's Show\" takes comedian Dave Chappelle's own personal joke book and brings it to life, with episodes consisting of sketches, man-on-the-street pieces, and pop culture parodies introduced by Dave in a stand-up format in front of a studio audience. Chappelle's unique point-of-view on the world provides a hilarious, defiant and sometimes dangerous look at American culture, including music, movies, television, advertising, current events, and everyday life situations.",
-      "genres": "Comedy | Music",
-      "director": "Andre Allen | Rusty Cundieff | Scott Vincent",
-      "runtime": "302",
+      "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+      "genres": "Comedy",
+      "director": "Neal Brennan | Dave Chappelle",
+      "runtime": "22",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "Dolby Digital Stereo [English] | Stereo [English]",
@@ -14118,6 +14783,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital Stereo [English] | Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Neal Brennan | Dave Chappelle"
         }
       ],
       "show_box_contents": true,
@@ -14141,10 +14818,10 @@
       "section": "music",
       "kind": "TV",
       "box_contents": [],
-      "overview": "\"Chappelle's Show\" takes comedian Dave Chappelle's own personal joke book and brings it to life, with episodes consisting of sketches, man-on-the-street pieces, and pop culture parodies introduced by Dave in a stand-up format in front of a studio audience. Chappelle's unique point-of-view on the world provides a hilarious, defiant and sometimes dangerous look at American culture, including music, movies, television, advertising, current events, and everyday life situations.",
-      "genres": "Comedy | Music",
-      "director": "Andre Allen | Rusty Cundieff | Scott Vincent",
-      "runtime": "302",
+      "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+      "genres": "Comedy",
+      "director": "Neal Brennan | Dave Chappelle",
+      "runtime": "22",
       "regions": "Region 1",
       "subtitles": "",
       "audio": "Dolby Digital Stereo [English]",
@@ -14190,14 +14867,27 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Neal Brennan | Dave Chappelle"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000080-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000080-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000080-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000080-front.jpg"
+        "assets/video-covers/video-dvd-000080-front.jpg",
+        "assets/video-covers/video-dvd-000080-back.jpg"
       ]
     },
     {
@@ -14212,10 +14902,10 @@
       "section": "music",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Comic genius Dave Chappelle trained his satirical eye on the vagaries of pop culture and race relations in his brilliant but short-lived Comedy Central series CHAPPELLE'S SHOW. The edgy funnyman brandished his unique style of streetsmart comedy to skewer everything from car commercials to the KKK, blending sketches, parodies, standup, and musical guest performances into a hilarious sendup of modern American life. Though the show was cancelled after only two seasons, Chappelle did record a handful of skits for a possible third season, presented here as a collection of \"lost episodes.\"",
-      "genres": "Comedy | Music",
-      "director": "Rusty Cundieff | Andre Allen | Neal Brennan",
-      "runtime": "30",
+      "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+      "genres": "Comedy",
+      "director": "Neal Brennan | Dave Chappelle",
+      "runtime": "22",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned)",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Stereo [English] | Stereo [English]",
@@ -14269,6 +14959,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Neal Brennan | Dave Chappelle"
         }
       ],
       "show_box_contents": true,
@@ -14349,6 +15051,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | History | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Steven Spielberg"
         }
       ],
       "show_box_contents": true,
@@ -14373,7 +15087,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "The story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s.",
-      "genres": "Biography | Drama | History",
+      "genres": "Drama | History",
       "director": "George Clooney",
       "runtime": "93",
       "regions": "Region 1",
@@ -14429,6 +15143,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | History"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "George Clooney"
         }
       ],
       "show_box_contents": true,
@@ -14453,7 +15179,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
-      "genres": "Action | Adventure | Drama",
+      "genres": "Action | Adventure",
       "director": "Wolfgang Petersen",
       "runtime": "163",
       "regions": "Region 1",
@@ -14509,6 +15235,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Wolfgang Petersen"
         }
       ],
       "show_box_contents": true,
@@ -14533,7 +15271,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Adventure | Action | Science Fiction",
       "director": "George Lucas",
       "runtime": "142",
       "regions": "Region 1",
@@ -14589,6 +15327,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | Italian"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "George Lucas"
         }
       ],
       "show_box_contents": true,
@@ -14613,7 +15363,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Adventure | Action | Science Fiction",
       "director": "George Lucas",
       "runtime": "136",
       "regions": "Region 1",
@@ -14669,6 +15419,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | Italian"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "George Lucas"
         }
       ],
       "show_box_contents": true,
@@ -15086,8 +15848,8 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Jack's got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. But ever-crafty Jack isn't about to go down without a fight.",
-      "genres": "Action | Adventure | Fantasy",
+      "overview": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Gore Verbinski",
       "runtime": "151",
       "regions": "Region 1",
@@ -15139,6 +15901,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Gore Verbinski"
         }
       ],
       "show_box_contents": true,
@@ -15163,7 +15937,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Two air traffic controllers who thrive on living dangerously compete to outdo each other on several levels.",
-      "genres": "Comedy | Drama | Romance",
+      "genres": "Comedy | Drama",
       "director": "Mike Newell",
       "runtime": "124",
       "regions": "Region 1",
@@ -15215,6 +15989,18 @@
         {
           "label": "Subtitles",
           "value": "English | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Two air traffic controllers who thrive on living dangerously compete to outdo each other on several levels."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Mike Newell"
         }
       ],
       "show_box_contents": true,
@@ -15239,7 +16025,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
-      "genres": "Action | Drama | Romance | War",
+      "genres": "Drama | War",
       "director": "Michael Bay",
       "runtime": "183",
       "regions": "Region 1",
@@ -15295,6 +16081,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | War"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Michael Bay"
         }
       ],
       "show_box_contents": true,
@@ -15318,8 +16116,8 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
-      "genres": "Action | Adventure | Fantasy",
+      "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Gore Verbinski",
       "runtime": "169",
       "regions": "Region 1",
@@ -15371,6 +16169,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Gore Verbinski"
         }
       ],
       "show_box_contents": true,
@@ -15395,7 +16205,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "On the streets they call cash dead presidents. And that's just what a Vietnam veteran is after when he returns home from the war only to find himself drawn into a life of crime. With the aid of his fellow vets he plans the ultimate heist -- a daring robbery of an armored car filled with unmarked U.S. currency!",
-      "genres": "Action | Crime | Drama | Thriller | War",
+      "genres": "Crime | Drama | Action",
       "director": "Albert Hughes | Allen Hughes",
       "runtime": "119",
       "regions": "Region 1",
@@ -15447,6 +16257,18 @@
         {
           "label": "Subtitles",
           "value": "Dutch | English | English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "On the streets they call cash dead presidents. And that's just what a Vietnam veteran is after when he returns home from the war only to find himself drawn into a life of crime. With the aid of his fellow vets he plans the ultimate heist -- a daring robbery of an armored car filled with unmarked U.S. currency!"
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Crime | Drama | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Albert Hughes | Allen Hughes"
         }
       ],
       "show_box_contents": true,
@@ -15471,7 +16293,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious children, who have chased away all previous nannies. Taunted by Simon and his siblings, Nanny McPhee uses mystical powers to instill discipline. And when the children's great-aunt and benefactor, Lady Adelaide Stitch, threatens to separate the kids, the family pulls together under the guidance of Nanny McPhee.",
-      "genres": "Comedy | Family | Fantasy",
+      "genres": "Fantasy | Comedy | Family",
       "director": "Kirk Jones",
       "runtime": "97",
       "regions": "Region 1",
@@ -15527,6 +16349,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious children, who have chased away all previous nannies. Taunted by Simon and his siblings, Nanny McPhee uses mystical powers to instill discipline. And when the children's great-aunt and benefactor, Lady Adelaide Stitch, threatens to separate the kids, the family pulls together under the guidance of Nanny McPhee."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Fantasy | Comedy | Family"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Kirk Jones"
         }
       ],
       "show_box_contents": true,
@@ -15551,7 +16385,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Recently widowed well-to-do Laura Henderson purchases the Windmill Theatre in London as a post-widowhood hobby. After starting an innovative continuous variety review, which is copied by other theaters, they begin to lose money. Mrs Henderson suggests they add risqué burlesque acts similar to the Moulin Rouge in Paris.",
-      "genres": "Comedy | Drama | Music | War",
+      "genres": "Comedy | Drama",
       "director": "Stephen Frears",
       "runtime": "103",
       "regions": "Region 1",
@@ -15603,6 +16437,18 @@
         {
           "label": "Subtitles",
           "value": "English | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Recently widowed well-to-do Laura Henderson purchases the Windmill Theatre in London as a post-widowhood hobby. After starting an innovative continuous variety review, which is copied by other theaters, they begin to lose money. Mrs Henderson suggests they add risqué burlesque acts similar to the Moulin Rouge in Paris."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Stephen Frears"
         }
       ],
       "show_box_contents": true,
@@ -15626,10 +16472,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "For 15 years, Brothers Derek 'Del Boy' and Rodney Trotter of 'Trotters Independent Traders PLC' entertained us both with Del's extreme optimism and scams and, quite simply, Rodney's facial expressions upon hearing those scams. Throughout the years, Grandad died and the equally funny Uncle Albert came to live with them, the brothers married and Del Boy had a son, Damien.\n\n\"Luvvly Jubbly\" as Del Boy would say.",
+      "overview": "Only Fools and Horses.... Is a British sitcom created and written by John Sullivan. Seven series were originally transmitted on BBC One from 1981 to 1991, with sixteen sporadic Christmas specials aired until 2003.\n\nIn working-class Peckham in south-east London, ambitious market trader Derek 'Del Boy' Trotter and his younger half-brother Rodney, explore their highs and lows in life, in particular their attempts to get rich.\n\nInitially not an immediate hit and receiving little promotion early on, it later achieved consistently high ratings, and the 1996 episode \"Time on Our Hands\" (originally billed as the series finale) holds the record for the biggest UK audience for a sitcom episode, attracting 24.3 million viewers. The series bears a significant influence on British culture, contributing several words and phrases to the English language.",
       "genres": "Comedy",
-      "director": "Martin Shardlow | Bernard Thompson",
-      "runtime": "214",
+      "director": "Tony Dow",
+      "runtime": "30",
       "regions": "",
       "subtitles": "",
       "audio": "",
@@ -15663,6 +16509,18 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Only Fools and Horses.... Is a British sitcom created and written by John Sullivan. Seven series were originally transmitted on BBC One from 1981 to 1991, with sixteen sporadic Christmas specials aired until 2003.\n\nIn working-class Peckham in south-east London, ambitious market trader Derek 'Del Boy' Trotter and his younger half-brother Rodney, explore their highs and lows in life, in particular their attempts to get rich.\n\nInitially not an immediate hit and receiving little promotion early on, it later achieved consistently high ratings, and the 1996 episode \"Time on Our Hands\" (originally billed as the series finale) holds the record for the biggest UK audience for a sitcom episode, attracting 24.3 million viewers. The series bears a significant influence on British culture, contributing several words and phrases to the English language."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Tony Dow"
         }
       ],
       "show_box_contents": true,
@@ -15685,10 +16543,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "For 15 years, Brothers Derek 'Del Boy' and Rodney Trotter of 'Trotters Independent Traders PLC' entertained us both with Del's extreme optimism and scams and, quite simply, Rodney's facial expressions upon hearing those scams. Throughout the years, Grandad died and the equally funny Uncle Albert came to live with them, the brothers married and Del Boy had a son, Damien.\n\n\"Luvvly Jubbly\" as Del Boy would say.",
+      "overview": "Only Fools and Horses.... Is a British sitcom created and written by John Sullivan. Seven series were originally transmitted on BBC One from 1981 to 1991, with sixteen sporadic Christmas specials aired until 2003.\n\nIn working-class Peckham in south-east London, ambitious market trader Derek 'Del Boy' Trotter and his younger half-brother Rodney, explore their highs and lows in life, in particular their attempts to get rich.\n\nInitially not an immediate hit and receiving little promotion early on, it later achieved consistently high ratings, and the 1996 episode \"Time on Our Hands\" (originally billed as the series finale) holds the record for the biggest UK audience for a sitcom episode, attracting 24.3 million viewers. The series bears a significant influence on British culture, contributing several words and phrases to the English language.",
       "genres": "Comedy",
-      "director": "Ray Butt",
-      "runtime": "231",
+      "director": "Tony Dow",
+      "runtime": "30",
       "regions": "",
       "subtitles": "",
       "audio": "",
@@ -15722,14 +16580,27 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Only Fools and Horses.... Is a British sitcom created and written by John Sullivan. Seven series were originally transmitted on BBC One from 1981 to 1991, with sixteen sporadic Christmas specials aired until 2003.\n\nIn working-class Peckham in south-east London, ambitious market trader Derek 'Del Boy' Trotter and his younger half-brother Rodney, explore their highs and lows in life, in particular their attempts to get rich.\n\nInitially not an immediate hit and receiving little promotion early on, it later achieved consistently high ratings, and the 1996 episode \"Time on Our Hands\" (originally billed as the series finale) holds the record for the biggest UK audience for a sitcom episode, attracting 24.3 million viewers. The series bears a significant influence on British culture, contributing several words and phrases to the English language."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Tony Dow"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000102-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000102-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000102-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000102-front.jpg"
+        "assets/video-covers/video-dvd-000102-front.jpg",
+        "assets/video-covers/video-dvd-000102-back.jpg"
       ]
     },
     {
@@ -15816,7 +16687,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
-      "genres": "Action | Adventure | Fantasy",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Gore Verbinski",
       "runtime": "143",
       "regions": "Region 1",
@@ -15872,6 +16743,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Gore Verbinski"
         }
       ],
       "show_box_contents": true,
@@ -15898,7 +16781,7 @@
       "overview": "Tom and Mae Garvey are a Tennessee farming couple battling violent floods to save their land. In addition to natural disasters, the Garveys fight to stop a selfish land developer and a local corporation from foreclosing on their farm. While Mae stays at home to care for their children and tend to the crops, Tom finds work as a scab at a steel mill to preserve his family's property.",
       "genres": "Drama",
       "director": "Mark Rydell",
-      "runtime": "124",
+      "runtime": "122",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital Surround [French]",
@@ -15948,6 +16831,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Tom and Mae Garvey are a Tennessee farming couple battling violent floods to save their land. In addition to natural disasters, the Garveys fight to stop a selfish land developer and a local corporation from foreclosing on their farm. While Mae stays at home to care for their children and tend to the crops, Tom finds work as a scab at a steel mill to preserve his family's property."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Mark Rydell"
         }
       ],
       "show_box_contents": true,
@@ -15972,7 +16867,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Justin Quayle is a low-level British diplomat who has always gone about his work very quietly, not causing any problems. But after his radical wife Tessa is killed he becomes determined to find out why, thrusting himself into the middle of a very dangerous conspiracy.",
-      "genres": "Drama | Mystery | Romance | Thriller",
+      "genres": "Drama | Mystery | Thriller",
       "director": "Fernando Meirelles",
       "runtime": "129",
       "regions": "Region 1 | Region 4",
@@ -16024,6 +16919,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Justin Quayle is a low-level British diplomat who has always gone about his work very quietly, not causing any problems. But after his radical wife Tessa is killed he becomes determined to find out why, thrusting himself into the middle of a very dangerous conspiracy."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Mystery | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Fernando Meirelles"
         }
       ],
       "show_box_contents": true,
@@ -16050,7 +16957,7 @@
       "overview": "William Hundert is a passionate and principled Classics professor who finds his tightly-controlled world shaken and inexorably altered when a new student, Sedgewick Bell, walks into his classroom. What begins as a fierce battle of wills gives way to a close student-teacher relationship, but results in a life lesson for Hundert that will still haunt him a quarter of a century later.",
       "genres": "Drama",
       "director": "Michael Hoffman",
-      "runtime": "109",
+      "runtime": "108",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | DTS 5.1 [English] | DTS [English] | Dolby Digital Surround [Spanish]",
@@ -16104,6 +17011,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "William Hundert is a passionate and principled Classics professor who finds his tightly-controlled world shaken and inexorably altered when a new student, Sedgewick Bell, walks into his classroom. What begins as a fierce battle of wills gives way to a close student-teacher relationship, but results in a life lesson for Hundert that will still haunt him a quarter of a century later."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Michael Hoffman"
         }
       ],
       "show_box_contents": true,
@@ -16128,7 +17047,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Pushed to the breaking-up point after their latest 'why can't you do this one little thing for me?' argument, Brooke calls it quits with her boyfriend Gary. What follows is a hilarious series of remedies, war tactics, overtures and undermining tricks – all encouraged by the former couple's friends and confidantes …and the occasional total stranger! When neither ex is willing to move out of their shared apartment, the only solution is to continue living as hostile roommates until one of them reaches breaking point.",
-      "genres": "Comedy | Drama | Romance",
+      "genres": "Romance | Comedy",
       "director": "Peyton Reed",
       "runtime": "106",
       "regions": "Region 1 | Region 3",
@@ -16184,6 +17103,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Pushed to the breaking-up point after their latest 'why can't you do this one little thing for me?' argument, Brooke calls it quits with her boyfriend Gary. What follows is a hilarious series of remedies, war tactics, overtures and undermining tricks – all encouraged by the former couple's friends and confidantes …and the occasional total stranger! When neither ex is willing to move out of their shared apartment, the only solution is to continue living as hostile roommates until one of them reaches breaking point."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Romance | Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peyton Reed"
         }
       ],
       "show_box_contents": true,
@@ -16208,7 +17139,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
-      "genres": "Action | Crime | Drama | Thriller",
+      "genres": "Drama | Crime | Thriller",
       "director": "Michael Mann",
       "runtime": "120",
       "regions": "Region 1",
@@ -16264,6 +17195,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Crime | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Michael Mann"
         }
       ],
       "show_box_contents": true,
@@ -16288,7 +17231,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In Imperial Russia, Anna, wife of the officer Karenin, goes to Moscow to visit her brother. On the way, she meets charming cavalry officer Vronsky, to whom she's immediately attracted. But in St. Petersburg’s high society, a relationship like this could destroy a woman’s reputation.",
-      "genres": "Drama | Romance",
+      "genres": "Drama | Romance | History",
       "director": "Joe Wright",
       "runtime": "129",
       "regions": "Region 1",
@@ -16328,14 +17271,27 @@
         {
           "label": "Regions",
           "value": "Region 1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In Imperial Russia, Anna, wife of the officer Karenin, goes to Moscow to visit her brother. On the way, she meets charming cavalry officer Vronsky, to whom she's immediately attracted. But in St. Petersburg’s high society, a relationship like this could destroy a woman’s reputation."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Romance | History"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Joe Wright"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000102-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000102-back.jpg",
       "primary_image": "assets/video-covers/video-br-000102-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000102-front.jpg"
+        "assets/video-covers/video-br-000102-front.jpg",
+        "assets/video-covers/video-br-000102-back.jpg"
       ]
     },
     {
@@ -16387,14 +17343,27 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Happy young married couple Paige and Leo are, well, happy. Then a car accident puts Paige into a life-threatening coma. Upon awakening she has lost the previous five years of memories, including those of her beloved Leo, her wedding, a confusing relationship with her parents, or the ending of her relationship with her ex-fiance. Despite these complications, Leo endeavors to win her heart again and rebuild their marriage."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Michael Sucsy"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000103-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000103-back.jpg",
       "primary_image": "assets/video-covers/video-br-000103-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000103-front.jpg"
+        "assets/video-covers/video-br-000103-front.jpg",
+        "assets/video-covers/video-br-000103-back.jpg"
       ]
     },
     {
@@ -16466,6 +17435,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Two aspiring boxers and lifelong friends get involved in a money-laundering scheme through a low-level organized crime group."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Crime | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jon Favreau"
         }
       ],
       "show_box_contents": true,
@@ -16568,7 +17549,7 @@
       "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
       "genres": "Comedy | Crime",
       "director": "Guy Ritchie",
-      "runtime": "107",
+      "runtime": "105",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Surround [English]",
@@ -16618,6 +17599,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Crime"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Guy Ritchie"
         }
       ],
       "show_box_contents": true,
@@ -16642,7 +17635,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
-      "genres": "Drama | Mystery | Thriller",
+      "genres": "Mystery | Thriller | Drama",
       "director": "David Fincher",
       "runtime": "149",
       "regions": "Region A",
@@ -16694,6 +17687,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Mystery | Thriller | Drama"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "David Fincher"
         }
       ],
       "show_box_contents": true,
@@ -16718,7 +17723,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
-      "genres": "Action | Adventure | Thriller",
+      "genres": "Action | Thriller",
       "director": "John McTiernan",
       "runtime": "135",
       "regions": "Region 1",
@@ -16774,6 +17779,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!"
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "John McTiernan"
         }
       ],
       "show_box_contents": true,
@@ -16798,9 +17815,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Years after his squad was ambushed during the Gulf War, Major Ben Marco finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw, now a vice-presidential candidate, is the hero he remembers him being. As Marco's doubts deepen, Shaw's political power grows, and, when Marco finds a mysterious implant embedded in his back, the memory of what really happened begins to return.",
-      "genres": "Drama | Mystery | Science Fiction | Thriller",
+      "genres": "Thriller | Drama | Mystery",
       "director": "Jonathan Demme",
-      "runtime": "129",
+      "runtime": "130",
       "regions": "",
       "subtitles": "",
       "audio": "",
@@ -16834,6 +17851,18 @@
         {
           "label": "Number of Discs",
           "value": "1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Years after his squad was ambushed during the Gulf War, Major Ben Marco finds himself having terrible nightmares. He begins to doubt that his fellow squad-mate Sergeant Raymond Shaw, now a vice-presidential candidate, is the hero he remembers him being. As Marco's doubts deepen, Shaw's political power grows, and, when Marco finds a mysterious implant embedded in his back, the memory of what really happened begins to return."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Thriller | Drama | Mystery"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jonathan Demme"
         }
       ],
       "show_box_contents": true,
@@ -16856,10 +17885,10 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of his faithful Donkey, Shrek takes on a potion-brewing Fairy Godmother, the pompous Prince Charming, and the ogre-killer, Puss In Boots.",
-      "genres": "Adventure | Animation | Comedy | Family | Fantasy | Romance",
-      "director": "Andrew Adamson | Kelly Asbury | Conrad Vernon",
-      "runtime": "93",
+      "overview": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots.",
+      "genres": "Animation | Comedy | Family | Fantasy | Romance",
+      "director": "Conrad Vernon | Kelly Asbury | Andrew Adamson",
+      "runtime": "92",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital Stereo [English] | Dolby Digital Stereo [Spanish]",
@@ -16909,6 +17938,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Animation | Comedy | Family | Fantasy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Conrad Vernon | Kelly Asbury | Andrew Adamson"
         }
       ],
       "show_box_contents": true,
@@ -16933,7 +17974,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-      "genres": "Adventure | Animation | Comedy | Family | Fantasy | Romance",
+      "genres": "Animation | Comedy | Fantasy | Adventure | Family",
       "director": "Andrew Adamson | Vicky Jenson",
       "runtime": "90",
       "regions": "Region 1",
@@ -16989,6 +18030,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Animation | Comedy | Fantasy | Adventure | Family"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Andrew Adamson | Vicky Jenson"
         }
       ],
       "show_box_contents": true,
@@ -17013,9 +18066,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
-      "genres": "Comedy | Crime",
+      "genres": "Crime | Comedy",
       "director": "Guy Ritchie",
-      "runtime": "102",
+      "runtime": "103",
       "regions": "Region 1",
       "subtitles": "English | English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Stereo [French] | Dolby Digital Surround [English]",
@@ -17069,6 +18122,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Crime | Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Guy Ritchie"
         }
       ],
       "show_box_contents": true,
@@ -17093,7 +18158,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.",
-      "genres": "Action | Drama",
+      "genres": "Action | Adventure | War",
       "director": "Zack Snyder",
       "runtime": "117",
       "regions": "Region 1",
@@ -17145,6 +18210,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure | War"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Zack Snyder"
         }
       ],
       "show_box_contents": true,
@@ -17167,9 +18244,9 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.",
-      "genres": "Adventure | Animation | Comedy | Family | Fantasy | Romance",
-      "director": "Chris Miller | Raman Hui",
+      "overview": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.",
+      "genres": "Fantasy | Adventure | Animation | Comedy | Family",
+      "director": "Chris Miller",
       "runtime": "93",
       "regions": "Region 1",
       "subtitles": "",
@@ -17212,14 +18289,27 @@
         {
           "label": "Regions",
           "value": "Region 1"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Fantasy | Adventure | Animation | Comedy | Family"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Chris Miller"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-dvd-000120-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-dvd-000120-back.jpg",
       "primary_image": "assets/video-covers/video-dvd-000120-front.jpg",
       "images": [
-        "assets/video-covers/video-dvd-000120-front.jpg"
+        "assets/video-covers/video-dvd-000120-front.jpg",
+        "assets/video-covers/video-dvd-000120-back.jpg"
       ]
     },
     {
@@ -17984,7 +19074,7 @@
       "box_contents": [],
       "overview": "Eddie, the 40-year-old confirmed bachelor finally says \"I do\" to the beautiful and sexy Lila. But during their honeymoon in Mexico, the woman of his dreams turns out to be a total nightmare, and the guy who could never pull the trigger realizes he’s jumped the gun.",
       "genres": "Comedy | Romance",
-      "director": "Danny Byers | Peter Farrelly",
+      "director": "Peter Farrelly | Bobby Farrelly",
       "runtime": "116",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | French | Spanish",
@@ -18035,6 +19125,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Eddie, the 40-year-old confirmed bachelor finally says \"I do\" to the beautiful and sexy Lila. But during their honeymoon in Mexico, the woman of his dreams turns out to be a total nightmare, and the guy who could never pull the trigger realizes he’s jumped the gun."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Comedy | Romance"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peter Farrelly | Bobby Farrelly"
         }
       ],
       "show_box_contents": true,
@@ -18059,7 +19161,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's 'policing the world' tactics.",
-      "genres": "Action | Comedy",
+      "genres": "Adventure | Action | Comedy",
       "director": "Trey Parker",
       "runtime": "98",
       "regions": "Region 2",
@@ -18115,6 +19217,18 @@
         {
           "label": "Subtitles",
           "value": "Arabic | Bulgarian | English | Greek | Hebrew | Portuguese"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's 'policing the world' tactics."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Trey Parker"
         }
       ],
       "show_box_contents": true,
@@ -18139,7 +19253,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Spike Lee's take on the \"Son of Sam\" murders in New York City during the summer of 1977 centering on the residents of an Italian-American Northeast Bronx neighborhood who live in fear and distrust of one another.",
-      "genres": "Crime | Drama | Romance | Thriller",
+      "genres": "Crime | Drama | Thriller",
       "director": "Spike Lee",
       "runtime": "142",
       "regions": "Region 1",
@@ -18191,6 +19305,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Spike Lee's take on the \"Son of Sam\" murders in New York City during the summer of 1977 centering on the residents of an Italian-American Northeast Bronx neighborhood who live in fear and distrust of one another."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Crime | Drama | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Spike Lee"
         }
       ],
       "show_box_contents": true,
@@ -18215,7 +19341,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Once an architect, Frank Bannister now passes himself off as an exorcist of evil spirits. To bolster his facade, he claims his \"special\" gift is the result of a car accident that killed his wife. But what he does not count on is more people dying in the small town where he lives. As he tries to piece together the supernatural mystery of these killings, he falls in love with the wife of one of the victims and deals with a crazy FBI agent.",
-      "genres": "Comedy | Fantasy | Horror",
+      "genres": "Horror | Comedy",
       "director": "Peter Jackson",
       "runtime": "110",
       "regions": "Region 1",
@@ -18271,6 +19397,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Once an architect, Frank Bannister now passes himself off as an exorcist of evil spirits. To bolster his facade, he claims his \"special\" gift is the result of a car accident that killed his wife. But what he does not count on is more people dying in the small town where he lives. As he tries to piece together the supernatural mystery of these killings, he falls in love with the wife of one of the victims and deals with a crazy FBI agent."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Horror | Comedy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peter Jackson"
         }
       ],
       "show_box_contents": true,
@@ -18295,9 +19433,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
-      "genres": "Action | Crime | Science Fiction | Thriller",
+      "genres": "Action | Crime | Science Fiction",
       "director": "John Woo",
-      "runtime": "138",
+      "runtime": "139",
       "regions": "Region 1",
       "subtitles": "English (Closed Captioned) | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital Surround [English] | Dolby Digital Surround [French]",
@@ -18347,6 +19485,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Crime | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "John Woo"
         }
       ],
       "show_box_contents": true,
@@ -18371,7 +19521,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall company, opting for implanted memories of being a spy. When the procedure goes wrong, Quaid becomes a wanted man by the police and joins forces with a rebel fighter to stop the evil Chancellor Cohaagen.",
-      "genres": "Action | Adventure | Science Fiction | Thriller",
+      "genres": "Action | Science Fiction | Thriller",
       "director": "Len Wiseman",
       "runtime": "118",
       "regions": "Region 1 | Region A",
@@ -18427,6 +19577,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall company, opting for implanted memories of being a spy. When the procedure goes wrong, Quaid becomes a wanted man by the police and joins forces with a rebel fighter to stop the evil Chancellor Cohaagen."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Science Fiction | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Len Wiseman"
         }
       ],
       "show_box_contents": true,
@@ -18451,7 +19613,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Science Fiction | Action | Adventure",
       "director": "James Cameron",
       "runtime": "162",
       "regions": "Region 1 | Region A",
@@ -18507,6 +19669,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Science Fiction | Action | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "James Cameron"
         }
       ],
       "show_box_contents": true,
@@ -18674,7 +19848,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Science Fiction | Action | Adventure",
       "director": "James Cameron",
       "runtime": "162",
       "regions": "Region 1 | Region A",
@@ -18730,6 +19904,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Science Fiction | Action | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "James Cameron"
         }
       ],
       "show_box_contents": true,
@@ -18754,7 +19940,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.",
-      "genres": "Action | Thriller",
+      "genres": "Action | Adventure | Thriller",
       "director": "Paul Greengrass",
       "runtime": "123",
       "regions": "Region 1",
@@ -18802,14 +19988,27 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Paul Greengrass"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000109-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000109-back.jpg",
       "primary_image": "assets/video-covers/video-br-000109-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000109-front.jpg"
+        "assets/video-covers/video-br-000109-front.jpg",
+        "assets/video-covers/video-br-000109-back.jpg"
       ]
     },
     {
@@ -18825,7 +20024,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of thieves and murderers have plagued the Southern Railroad. When Wade is captured, Civil War veteran Dan Evans, struggling to survive on his drought-plagued ranch, volunteers to deliver him alive to the \"3:10 to Yuma\", a train that will take the killer to trial.",
-      "genres": "Action | Crime | Drama | Western",
+      "genres": "Western",
       "director": "James Mangold",
       "runtime": "122",
       "regions": "Region A",
@@ -18877,14 +20076,27 @@
         {
           "label": "Subtitles",
           "value": "English | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of thieves and murderers have plagued the Southern Railroad. When Wade is captured, Civil War veteran Dan Evans, struggling to survive on his drought-plagued ranch, volunteers to deliver him alive to the \"3:10 to Yuma\", a train that will take the killer to trial."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Western"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "James Mangold"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000110-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000110-back.jpg",
       "primary_image": "assets/video-covers/video-br-000110-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000110-front.jpg"
+        "assets/video-covers/video-br-000110-front.jpg",
+        "assets/video-covers/video-br-000110-back.jpg"
       ]
     },
     {
@@ -18899,10 +20111,10 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Kai—an outcast—joins Oishi, the leader of 47 outcast samurai. Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind. To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
-      "genres": "Action | Drama | Fantasy",
+      "overview": "Kai—an outcast—joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+      "genres": "Drama | Action | Fantasy",
       "director": "Carl Rinsch",
-      "runtime": "128",
+      "runtime": "119",
       "regions": "Region 1 | Region A",
       "subtitles": "English (SDH) | French | Spanish",
       "audio": "DTS 5.1 [French] | DTS 5.1 [Spanish] | Dolby Digital Stereo [English] | DTS-HD Master Audio 5.1 [English]",
@@ -18956,6 +20168,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Kai—an outcast—joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Action | Fantasy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Carl Rinsch"
         }
       ],
       "show_box_contents": true,
@@ -18980,7 +20204,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world.",
-      "genres": "Action | Adventure | Fantasy",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Mike Newell",
       "runtime": "116",
       "regions": "Region 1 | Region A",
@@ -19036,6 +20260,18 @@
         {
           "label": "Subtitles",
           "value": "English | English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Mike Newell"
         }
       ],
       "show_box_contents": true,
@@ -19060,7 +20296,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
-      "genres": "Action | Adventure | Mystery | Thriller",
+      "genres": "Adventure | Action | Thriller",
       "director": "Marc Forster",
       "runtime": "106",
       "regions": "Region 1 | Region A",
@@ -19116,6 +20352,18 @@
         {
           "label": "Subtitles",
           "value": "Cantonese | Chinese | English | French | Korean | Mandarin | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Marc Forster"
         }
       ],
       "show_box_contents": true,
@@ -19140,9 +20388,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
-      "genres": "Action | Adventure | Thriller",
+      "genres": "Action | Thriller | Adventure",
       "director": "Brad Bird",
-      "runtime": "132",
+      "runtime": "133",
       "regions": "Region 1 | Region A",
       "subtitles": "English (SDH) | French | Portuguese | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital 5.1 [Spanish] | Dolby Digital 5.1 [Portuguese]",
@@ -19196,6 +20444,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Thriller | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Brad Bird"
         }
       ],
       "show_box_contents": true,
@@ -19220,9 +20480,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Action | Adventure | Fantasy",
       "director": "David Ayer",
-      "runtime": "123",
+      "runtime": "122",
       "regions": "Region 1 | Region A",
       "subtitles": "English (SDH) | French | Spanish",
       "audio": "Dolby Digital 5.1 [French] | Dolby Digital 5.1 [Spanish] | Dolby Atmos [English] | Descriptive Audio 5.1 [English]",
@@ -19276,6 +20536,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure | Fantasy"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "David Ayer"
         }
       ],
       "show_box_contents": true,
@@ -19299,8 +20571,8 @@
       "section": "video",
       "kind": "Film",
       "box_contents": [],
-      "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.\n\nThe Jurassic World theme park lets guests experience the thrill of witnessing actual dinosaurs, but something ferocious lurks behind the park's attractions – a genetically modified dinosaur with savage capabilities. When the massive creature escapes, chaos erupts across the island. Now it's up to Owen (Chris Pratt) and Claire (Bryce Dallas Howard) to save the park's tourists from an all-out prehistoric assault.",
-      "genres": "Action | Adventure | Science Fiction",
+      "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+      "genres": "Adventure | Science Fiction | Thriller",
       "director": "Colin Trevorrow",
       "runtime": "124",
       "regions": "Region 1",
@@ -19356,6 +20628,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Science Fiction | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Colin Trevorrow"
         }
       ],
       "show_box_contents": true,
@@ -19380,9 +20664,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A passenger train has been hijacked by an electronics expert and turned into an untraceable command center for a weapons satellite. He has planned to blow up Washington DC and only one man can stop him, former Navy SEAL Casey Ryback.",
-      "genres": "Action | Adventure | Thriller",
+      "genres": "Action | Thriller",
       "director": "Geoff Murphy",
-      "runtime": "100",
+      "runtime": "99",
       "regions": "Region A",
       "subtitles": "English | French | Spanish",
       "audio": "Dolby Digital 5.1 [English] | Dolby Digital 5.1 [French] | Dolby Digital Mono [Spanish]",
@@ -19436,6 +20720,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A passenger train has been hijacked by an electronics expert and turned into an untraceable command center for a weapons satellite. He has planned to blow up Washington DC and only one man can stop him, former Navy SEAL Casey Ryback."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Geoff Murphy"
         }
       ],
       "show_box_contents": true,
@@ -19460,9 +20756,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-      "genres": "Adventure | Drama | Western",
-      "director": "Alejandro Gonzalez Inarritu",
-      "runtime": "156",
+      "genres": "Western | Drama | Adventure",
+      "director": "Alejandro G. Iñárritu",
+      "runtime": "157",
       "regions": "Region A",
       "subtitles": "English (SDH) | French | Spanish",
       "audio": "Dolby Digital 5.1 [French] | Dolby Digital 5.1 [Spanish] | DTS-HD Master Audio 7.1 [English] | Descriptive Audio 5.1 [English]",
@@ -19516,6 +20812,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Western | Drama | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Alejandro G. Iñárritu"
         }
       ],
       "show_box_contents": true,
@@ -19540,7 +20848,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "This documentary goes to coral reefs of the Bahamas and the waters of the Kingdom of Tonga for a close encounter with the surviving tribes of the ocean: wild dolphins and belugas, the love of a Humpback mother for her newborn calf, the singing Humpback males, an orca the mighty King of the ocean, and the gentle manatee. Little-known aspects of these creatures capable of sophisticated communication and social interaction. Documents the life of these graceful, majestic yet endangered sea creatures",
-      "genres": "Adventure | Documentary",
+      "genres": "Documentary",
       "director": "Jean-Jacques Mantello",
       "runtime": "42",
       "regions": "Region 1",
@@ -19584,6 +20892,18 @@
         {
           "label": "Audio Tracks",
           "value": "Stereo [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "This documentary goes to coral reefs of the Bahamas and the waters of the Kingdom of Tonga for a close encounter with the surviving tribes of the ocean: wild dolphins and belugas, the love of a Humpback mother for her newborn calf, the singing Humpback males, an orca the mighty King of the ocean, and the gentle manatee. Little-known aspects of these creatures capable of sophisticated communication and social interaction. Documents the life of these graceful, majestic yet endangered sea creatures"
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Jean-Jacques Mantello"
         }
       ],
       "show_box_contents": true,
@@ -19608,7 +20928,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
-      "genres": "Adventure | Drama | Fantasy",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Peter Jackson",
       "runtime": "201",
       "regions": "Region 1",
@@ -19664,6 +20984,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​"
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peter Jackson"
         }
       ],
       "show_box_contents": true,
@@ -19688,8 +21020,8 @@
       "kind": "TV",
       "box_contents": [],
       "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
-      "genres": "Documentary",
-      "director": "Elizabeth White | Justin Anderson | Emma Napper",
+      "genres": "Documentary | Family",
+      "director": "Alastair Fothergill",
       "runtime": "297",
       "regions": "Region 1",
       "subtitles": "English (SDH)",
@@ -19740,6 +21072,18 @@
         {
           "label": "Subtitles",
           "value": "English (SDH)"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary | Family"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Alastair Fothergill"
         }
       ],
       "show_box_contents": true,
@@ -19764,7 +21108,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
-      "genres": "Drama | Horror | Science Fiction | Thriller",
+      "genres": "Drama | Science Fiction | Thriller",
       "director": "Francis Lawrence",
       "runtime": "101",
       "regions": "Region 1",
@@ -19816,6 +21160,18 @@
         {
           "label": "Subtitles",
           "value": "English | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Drama | Science Fiction | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Francis Lawrence"
         }
       ],
       "show_box_contents": true,
@@ -19839,10 +21195,10 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "Dr Iain Stewart tells the story of how Earth works and how, over the course of 4.6 billion years, it came to be the remarkable place it is today.",
+      "overview": "In each episode, geologist Dr. Iain Stewart explains the effects and importance of a specific force of nature, such as wind or volcanism. He also examines the various ways in which it shapes planet earth itself and influences life on it, often in conjunction with other natural forces, and sometimes with lifeforms, as in the 'apocalyptically' grave case of global warming.",
       "genres": "Documentary",
       "director": "Paul Olding | Annabel Gillings | Sophie Elwin-Harris",
-      "runtime": "257",
+      "runtime": "60",
       "regions": "Region 1",
       "subtitles": "English",
       "audio": "Dolby Digital Stereo [English] | DTS [English] | DTS-HD HR 5.1 [English]",
@@ -19892,6 +21248,14 @@
         {
           "label": "Subtitles",
           "value": "English"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "In each episode, geologist Dr. Iain Stewart explains the effects and importance of a specific force of nature, such as wind or volcanism. He also examines the various ways in which it shapes planet earth itself and influences life on it, often in conjunction with other natural forces, and sometimes with lifeforms, as in the 'apocalyptically' grave case of global warming."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary"
         }
       ],
       "show_box_contents": true,
@@ -20274,7 +21638,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
-      "genres": "Action | Adventure | Thriller",
+      "genres": "Action | Adventure",
       "director": "Christopher McQuarrie",
       "runtime": "131",
       "regions": "Region 1 | Region A",
@@ -20326,14 +21690,27 @@
         {
           "label": "Subtitles",
           "value": "English | English (SDH) | French | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Action | Adventure"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Christopher McQuarrie"
         }
       ],
       "show_box_contents": true,
       "front": "assets/video-covers/video-br-000129-front.jpg",
-      "back": "",
+      "back": "assets/video-covers/video-br-000129-back.jpg",
       "primary_image": "assets/video-covers/video-br-000129-front.jpg",
       "images": [
-        "assets/video-covers/video-br-000129-front.jpg"
+        "assets/video-covers/video-br-000129-front.jpg",
+        "assets/video-covers/video-br-000129-back.jpg"
       ]
     },
     {
@@ -20349,7 +21726,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
-      "genres": "Action | Adventure | Mystery | Thriller",
+      "genres": "Adventure | Action | Thriller",
       "director": "Marc Forster",
       "runtime": "106",
       "regions": "Region 1 | Region A",
@@ -20405,6 +21782,18 @@
         {
           "label": "Subtitles",
           "value": "Cantonese | Chinese | English | French | Korean | Mandarin | Portuguese | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Thriller"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Marc Forster"
         }
       ],
       "show_box_contents": true,
@@ -20470,9 +21859,11 @@
       ],
       "show_box_contents": true,
       "front": "",
-      "back": "",
+      "back": "assets/video-covers/video-vid-000006-back.jpg",
       "primary_image": "",
-      "images": []
+      "images": [
+        "assets/video-covers/video-vid-000006-back.jpg"
+      ]
     },
     {
       "copy_id": "VIDEO:BR-000131",
@@ -20487,7 +21878,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-      "genres": "Adventure | Fantasy",
+      "genres": "Adventure | Fantasy | Action",
       "director": "Peter Jackson",
       "runtime": "169",
       "regions": "Region 1 | Region A",
@@ -20543,6 +21934,18 @@
         {
           "label": "Subtitles",
           "value": "French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Fantasy | Action"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Peter Jackson"
         }
       ],
       "show_box_contents": true,
@@ -20565,8 +21968,8 @@
       "section": "video",
       "kind": "TV",
       "box_contents": [],
-      "overview": "This episode guides viewers on a journey to the polar extremes of our planet. Freshwater is frozen and out of reach, and coupled with numbing temperatures, this makes life hard in frozen climes from the top to the bottom of the world. CGI time-lapse and elapsed-time filming techniques show Arctic ice coming and going over the centuries, and emperor penguins settling in to breed in Antarctica.",
-      "genres": "Documentary | Family",
+      "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
+      "genres": "Documentary",
       "director": "Alastair Fothergill | Mark Linfield",
       "runtime": "538",
       "regions": "Region 1",
@@ -20618,6 +22021,14 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary"
         }
       ],
       "show_box_contents": true,
@@ -20642,9 +22053,9 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
-      "genres": "Action | Adventure | Fantasy | Science Fiction",
+      "genres": "Adventure | Action | Science Fiction",
       "director": "Richard Marquand",
-      "runtime": "131",
+      "runtime": "132",
       "regions": "Region A",
       "subtitles": "English (Closed Captioned) | French | Spanish",
       "audio": "Dolby Digital 5.1 [Spanish] | DTS 5.1 [French] | DTS-HD HR 5.1 [English] | DTS-HD Master Audio 6.1 [English]",
@@ -20694,6 +22105,18 @@
         {
           "label": "Subtitles",
           "value": "English (Closed Captioned) | French | Spanish"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Adventure | Action | Science Fiction"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Richard Marquand"
         }
       ],
       "show_box_contents": true,
@@ -20718,7 +22141,7 @@
       "kind": "Film",
       "box_contents": [],
       "overview": "A chronicle of Bob Dylan's strange evolution between 1961 and 1966 from folk singer to protest singer to \"voice of a generation\" to rock star.",
-      "genres": "Biography | Documentary | History | Music",
+      "genres": "Documentary | Music",
       "director": "Martin Scorsese",
       "runtime": "208",
       "regions": "Region 1",
@@ -20762,6 +22185,18 @@
         {
           "label": "Audio Tracks",
           "value": "Dolby Digital 5.1 [English]"
+        },
+        {
+          "label": "TMDB Overview",
+          "value": "A chronicle of Bob Dylan's strange evolution between 1961 and 1966 from folk singer to protest singer to \"voice of a generation\" to rock star."
+        },
+        {
+          "label": "TMDB Genres",
+          "value": "Documentary | Music"
+        },
+        {
+          "label": "TMDB Director",
+          "value": "Martin Scorsese"
         }
       ],
       "show_box_contents": true,
