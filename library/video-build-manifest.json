@@ -1,8 +1,8 @@
 {
   "source_master": "C:\\_DOWNLOADS\\discogs\\Discogs_Toolkit_v1\\pipeline\\video\\data\\video_master.xlsx",
   "items": 268,
-  "video_items": 242,
-  "music_video_items": 26,
+  "video_items": 246,
+  "music_video_items": 22,
   "box_sets": 1,
   "components_excluded": true,
   "mode": "local_preview",
