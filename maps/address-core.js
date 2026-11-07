@@ -1,0 +1,9 @@
+(function(root){
+ const cities=['Niagara Falls','Whitchurch-Stouffville','East Gwillimbury','Richmond Hill','Halton Hills','St Catharines','St. Catharines','North York','East York','Etobicoke','Scarborough','Mississauga','Toronto','Burlington','Brampton','Oakville','Vaughan','Concord','Markham','Newmarket','Bradford','Barrie','Milton','Georgetown','Ajax','Pickering','Whitby','Oshawa','Bowmanville','Welland','Hamilton','Stoney Creek','Dundas','Waterdown','Guelph','Orillia','Cambridge','Kitchener','Waterloo','Ancaster'];
+ const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+ function requestedCity(text){const query=' '+normalize(text)+' ';for(const city of cities){if(query.includes(' '+normalize(city)+' '))return city}const parts=text.split(',').map(x=>x.trim()).filter(Boolean);if(parts.length>=2){const candidate=parts[1].replace(/\b(?:ON|Ontario|Canada)\b.*$/i,'').trim();if(candidate&&!/\d/.test(candidate))return candidate}return ''}
+ function accepts(text,c){const city=requestedCity(text),a=c.attributes||{},label=' '+normalize(a.City||a.District?[a.City,a.District].join(' '):c.address)+' ';if(!Number.isFinite(c.score)||c.score<90)return false;
+ if(city&&!label.includes(' '+normalize(city)+' '))return false;
+ const number=text.trim().match(/^(\d+[a-z]?)\b/i)?.[1];if(number){const type=a.Addr_type||'';if(!['PointAddress','Subaddress','StreetAddress'].includes(type))return false;const returned=String(a.AddNum||c.address.match(/^(\d+[a-z]?)\b/i)?.[1]||'');if(normalize(number)!==normalize(returned))return false}return Number.isFinite(c.location?.y)&&Number.isFinite(c.location?.x)}
+ const api={requestedCity,accepts};if(typeof module==='object'&&module.exports)module.exports=api;else root.AddressCore=api;
+})(typeof window==='undefined'?globalThis:window);
